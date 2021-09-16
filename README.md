@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo Costa. Tudo bem?
+## Olá! Tudo bem?
 Estou iniciando na programação e desenvolvendo em front-end
 <div>
   <a href="https://github.com/gcrsanalista">
