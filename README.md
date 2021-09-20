@@ -3,7 +3,7 @@ Estou iniciando na programação e desenvolvendo em front-end
 <div>
   <a href="https://github.com/gcrsanalista">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gcrsanalista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Gustavo" height="250" width="250" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
+  <img align="right" alt="Gustavo" height="220" width="220" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcrsanalista&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
