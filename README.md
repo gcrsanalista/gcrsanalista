@@ -19,7 +19,7 @@ Estou iniciando na programação e desenvolvendo em front-end
   <br> <br>
   <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br> <br>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> <span>-> Kintaro_Sakamoto#0898</span>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> <span> Kintaro_Sakamoto#0898</span>
  
   ![Snake animation](https://github.com/gcrsanalista/gcrsanalista/blob/output/github-contribution-grid-snake.svg)
  
