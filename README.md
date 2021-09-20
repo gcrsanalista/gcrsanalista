@@ -14,7 +14,10 @@ Estou iniciando na programação e desenvolvendo em front-end
 <div> 
   <a href="https://www.youtube.com/watch?v=jjOd-HvOZqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:gcrsanalista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+  <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  ![ezgif-3-cd8aba53cbc3](https://user-images.githubusercontent.com/85446931/134085918-37f16823-464c-40ee-b119-8a4b9becf57d.gif)
+
+  <br>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> <span>-> Kintaro_Sakamoto#0898</span>
  
   ![Snake animation](https://github.com/gcrsanalista/gcrsanalista/blob/output/github-contribution-grid-snake.svg)
