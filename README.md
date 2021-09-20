@@ -15,8 +15,7 @@ Estou iniciando na programação e desenvolvendo em front-end
   <a href="https://www.youtube.com/watch?v=jjOd-HvOZqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:gcrsanalista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
+![ezgif-3-cd8aba53cbc3](https://user-images.githubusercontent.com/85446931/134086384-58dbea53-983c-4daa-9fa5-cdcb0e0f32ad.gif)
   <br>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> <span>-> Kintaro_Sakamoto#0898</span>
  
