@@ -1,4 +1,4 @@
-## Olá! Tudo bem?
+## <h1 align = "center"> <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" > Olá! Tudo bem?
 Estou iniciando na programação e desenvolvendo em front-end
 <div>
   <a href="https://github.com/gcrsanalista">
