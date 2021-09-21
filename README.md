@@ -9,12 +9,12 @@ Estou iniciando na programação e desenvolvendo em front-end
 </div> 
   
   <br>
-  
+
 
 <div> 
 
-  <img align="left" alt="Ofensiva2" height="220" width="220" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
-  <img align="left" alt="Gustavo" height="220" width="220" src="https://user-images.githubusercontent.com/85446931/134098225-5c6f365e-c81c-47ed-9cbb-dc14a0f687f6.png">
+  <a href="https://www.duolingo.com/profile/gustavocostajj" target="_blank"><img src="https://user-images.githubusercontent.com/85446931/134098225-5c6f365e-c81c-47ed-9cbb-dc14a0f687f6.png" target="_blank" img align="left" alt="Gustavo" height="220" width="220"></a>
+  <img align="left" alt="Gustavo" height="220" width="220" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
   <br>
   <a href="https://www.youtube.com/watch?v=jjOd-HvOZqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <br> <br>
