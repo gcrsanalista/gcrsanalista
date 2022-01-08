@@ -18,7 +18,7 @@ Estou iniciando na programação e desenvolvendo em front-end
   <br>  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
   <a href="https://www.youtube.com/watch?v=jjOd-HvOZqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <span> Canal do meu filho </span>
   <br> <br>
-  <a href = "mailto:gcrsanalista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center"></a>
+  <a href = "mailto:gcrsanalista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center"></a> <span> gcrsanalista@gmail.com </span>
   <br> <br>
   <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" img align="center"></a>
   <br> <br>
