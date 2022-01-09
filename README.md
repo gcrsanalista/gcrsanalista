@@ -25,6 +25,19 @@ Estou iniciando na programação e desenvolvendo em front-end
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" img align="center"> <span> Kintaro_Sakamoto#0898</span>
  
   ![Snake animation](https://github.com/gcrsanalista/gcrsanalista/blob/output/github-contribution-grid-snake.svg)
+  
+  #Projetos
+  <br>
+  Site 01 - Curso Dankicode
+  <img src="https://github.com/gcrsanalista/dankicode-projeto-02/blob/main/Imagens/projeto01-01aa.png">
+  <br>
+  Site 02 - Curso Dankicode
+  <img src="https://github.com/gcrsanalista/dankicode-projeto-02/blob/main/Imagens/projeto02-01aa.png">
+  <br>
+  Site 03 - Curso Dankicode
+  <img src="https://github.com/gcrsanalista/dankicode-projeto-02/blob/main/Imagens/projeto03-01aa.png">
+  <br>
+  
  
  
   
