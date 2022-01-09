@@ -33,12 +33,14 @@ Olá tudo bem? Estou iniciando na programação e desenvolvendo em front-end
   <br> <br>
   <img src="https://github.com/gcrsanalista/dankicode-projeto-01/blob/main/Imagens/Projeto01.png">
   <br><br>
-  <h2>Site 02 - Curso Dankicode</h2> <a href="https://github.com/gcrsanalista/dankicode-projeto-02"> Link do Repositório</a>
+  
+  <h2>Site 02 - Curso Dankicode</h2>
   <a href="https://github.com/gcrsanalista/dankicode-projeto-02">Link do Repositório</a>
   <br> <br>
   <img src="https://github.com/gcrsanalista/dankicode-projeto-02/blob/main/Imagens/projeto02-01aa.png">
   <br><br>
-  <h2>Site 03 - Curso Dankicode</h2> <a href="https://github.com/gcrsanalista/dankicode-projeto-03"> Link do Repositório</a>
+  
+  <h2>Site 03 - Curso Dankicode</h2>
   <a href="https://github.com/gcrsanalista/dankicode-projeto-03">Link do Repositório</a>
   <br> <br>
   <img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01a.png">
