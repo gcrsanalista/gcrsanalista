@@ -26,15 +26,18 @@ Olá tudo bem? Estou iniciando na programação e desenvolvendo em front-end
  
   ![Snake animation](https://github.com/gcrsanalista/gcrsanalista/blob/output/github-contribution-grid-snake.svg)
   
-  #Projetos
+  ##Projetos
   <br><br>
-  Site 01 - Curso Dankicode
+  ##Site 01 - Curso Dankicode
+  <br>
   <img src="https://github.com/gcrsanalista/dankicode-projeto-01/blob/main/Imagens/Projeto01.png">
   <br><br>
-  Site 02 - Curso Dankicode
+  ##Site 02 - Curso Dankicode
+  <br>
   <img src="https://github.com/gcrsanalista/dankicode-projeto-02/blob/main/Imagens/projeto02-01aa.png">
   <br><br>
-  Site 03 - Curso Dankicode
+  ##Site 03 - Curso Dankicode
+  <br>
   <img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01a.png">
   <br><br>
   
