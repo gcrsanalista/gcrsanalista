@@ -29,13 +29,13 @@ Estou iniciando na programação e desenvolvendo em front-end
   #Projetos
   <br>
   Site 01 - Curso Dankicode
-  <img src="https://github.com/gcrsanalista/dankicode-projeto-02/blob/main/Imagens/projeto01-01aa.png">
+  <img src="https://github.com/gcrsanalista/dankicode-projeto-01/blob/main/Imagens/projeto01-01aa.png">
   <br>
   Site 02 - Curso Dankicode
   <img src="https://github.com/gcrsanalista/dankicode-projeto-02/blob/main/Imagens/projeto02-01aa.png">
   <br>
   Site 03 - Curso Dankicode
-  <img src="https://github.com/gcrsanalista/dankicode-projeto-02/blob/main/Imagens/projeto03-01aa.png">
+  <img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/Imagens/projeto03-01aa.png">
   <br>
   
  
