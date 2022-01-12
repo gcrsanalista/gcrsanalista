@@ -43,7 +43,7 @@ Olá tudo bem? Estou iniciando na programação e desenvolvendo em front-end
   <h2>Site 03 - Curso Dankicode</h2>
   <a href="https://github.com/gcrsanalista/dankicode-projeto-03">Link do Repositório</a>
   <br> <br>
-  <img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01a.png">
+  <img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01.png">
   <br><br>
   
  
