@@ -1,7 +1,7 @@
 ## <h1 align = "center"> <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" > Iniciante - Front-End
 Olá tudo bem? Estou iniciando na programação e desenvolvendo em front-end
 <div>
-  <a href="https://github.com/gcrsanalista">
+  <a href="https://github.com/gustavocostaads">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gcrsanalista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcrsanalista&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
