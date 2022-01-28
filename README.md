@@ -46,6 +46,12 @@ Olá tudo bem? Estou iniciando na programação e desenvolvendo em front-end
   <img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01.png">
   <br><br>
   
+    <h2>Estrutura inicial react para app - Curso Ignit - Rockseat - Trilha React</h2>
+  <a href="https://github.com/gustavocostaads/Rocketseat-01-github-explorer">Link do Repositório</a>
+  <br> <br>
+  <img src="https://github.com/gustavocostaads/Rocketseat-01-github-explorer/blob/main/2022-01-28-12-09-16.gif">
+  <br><br>
+  
  
  
   
