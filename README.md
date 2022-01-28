@@ -46,7 +46,47 @@ Olá tudo bem? Estou iniciando na programação e desenvolvendo em front-end
   <img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01.png">
   <br><br>
   
-  <h2>Estrutura inicial react para app - Curso Ignit - Rockseat - Trilha React</h2>
+  <h2>Estrutura inicial react para app do zero- Curso Ignit - Rockseat - Trilha React</h2>
+  Instalando todos os pacotes 1 a 1 e configurando webpack, babel entre outras configurações.
+  Package.json
+  {
+  "name": "01-github-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "cross-env NODE_ENV=production webpack"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.38",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "@babel/preset-react": "^7.16.7",
+    "@babel/preset-typescript": "^7.16.7",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.4",
+    "@types/react-dom": "^17.0.11",
+    "babel-loader": "^8.2.3",
+    "cross-env": "^7.0.3",
+    "css-loader": "^6.5.1",
+    "html-webpack-plugin": "^5.5.0",
+    "node-sass": "^7.0.1",
+    "react-refresh": "^0.11.0",
+    "sass-loader": "^12.4.0",
+    "style-loader": "^3.3.1",
+    "typescript": "^4.5.5",
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.3"
+  }
+}
+  
+  
   <a href="https://github.com/gustavocostaads/Rocketseat-01-github-explorer">Link do Repositório</a>
   <br> <br>
   <img src="https://github.com/gustavocostaads/Rocketseat-01-github-explorer/blob/main/2022-01-28-12-09-16.gif">
