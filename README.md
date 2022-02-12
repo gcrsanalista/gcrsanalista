@@ -14,14 +14,14 @@ Olá tudo bem? Estou iniciando na programação e desenvolvendo em front-end
 <div> 
 
   <a href="https://www.duolingo.com/profile/gustavocostajj" target="_blank"><img src="https://user-images.githubusercontent.com/85446931/145303855-fda5b022-02bd-409f-bfb0-6945c38019c5.jpeg" target="_blank" img align="left" alt="Gustavo" height="260" width="260"></a>
-  <img align="left" alt="Gustavo" height="220" width="220" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
+  <img align="left" alt="Gustavo" height="260" width="260" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
   
   <a href="https://www.youtube.com/watch?v=jjOd-HvOZqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <span> Canal do meu filho </span>
-  <br> <br>
+  <br> <br> <br>
   <a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center"></a> <span> gcrsanalista@gmail.com </span>
-  <br> <br>
+  <br> <br> <br>
   <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" img align="center"></a>
-  <br> <br>
+  <br> <br> <br>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" img align="center"> <span> Kintaro_Sakamoto#0898</span>
  
   ![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
