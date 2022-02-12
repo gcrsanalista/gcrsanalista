@@ -26,7 +26,7 @@ Olá tudo bem? Estou iniciando na programação e desenvolvendo em front-end
  
   ![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
   
-  <h1>Projetos</h1>
+  <h1>Sequência de Projetos</h1>
 
   <h2>Site 01 - Curso Dankicode</h2> 
   <a href="https://github.com/gustavocostaads/dankicode-projeto-01">Link do Repositório</a>
@@ -46,7 +46,7 @@ Olá tudo bem? Estou iniciando na programação e desenvolvendo em front-end
   <img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01.png">
   <br><br>
   
-  <h2>Estrutura inicial react para app do zero- Curso Ignit - Rockseat - Trilha React</h2>
+  <h2>Estrutura inicial react para app do zero- Curso Ignit - Rocketseat - Trilha React</h2>
   Instalando todos os pacotes 1 a 1 e configurando webpack, babel entre outras configurações.
   Package.json
   {
