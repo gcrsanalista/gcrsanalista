@@ -85,14 +85,17 @@ Olá tudo bem? Estou iniciando na programação e desenvolvendo em front-end
     "webpack-dev-server": "^4.7.3"
   }
 }
-  
-  
+    
   <a href="https://github.com/gustavocostaads/Rocketseat-01-github-explorer">Link do Repositório</a>
   <br> <br>
   <img src="https://github.com/gustavocostaads/Rocketseat-01-github-explorer/blob/main/2022-01-28-12-09-16.gif">
   <br><br>
   
- 
- 
+   <h2>Primeiro projeto em typescript / React, curso Rocketseat - Ignit - Trilha React - Segundo Capítulo</h2>
   
-</div>
+  <a href="https://github.com/gustavocostaads/dtmoney">Link do Repositório</a>
+  <br> <br>
+  <img src="https://github.com/gustavocostaads/dtmoney/blob/main/grava%C3%A7%C3%A3o.gif">
+  <br> <br>
+ 
+ </div>
