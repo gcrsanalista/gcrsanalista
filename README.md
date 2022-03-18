@@ -1,6 +1,6 @@
-## <h1 align = "center"> <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" > Iniciante - Front-End
-<div align="center" style="display: inline_block"><br>
-    Olá tudo bem? Estou iniciando na programação e desenvolvendo em front-end
+## <h1 align = "center"> <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" > Olá
+<div align="center" style="display: inline_block">
+    <h3>Lá embaixo tem meu histórico de estudos, confira!</h3>
 </div> 
   
 <div align="center" style="display: inline_block"><br>
@@ -18,7 +18,7 @@
   
   <div align="center">
    
-  <a href="https://www.youtube.com/watch?v=jjOd-HvOZqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <br> <span> Canal do meu filho </span>
+  <a href="https://www.youtube.com/watch?v=jjOd-HvOZqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <br> <span> Canal do meu filho. Deixa o like </span>
   
 
   <a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center"></a> <br> <span> gustavocostaads@gmail.com </span>
@@ -37,6 +37,8 @@
   ![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
     
   </div>
+    
+  <div align="center">
     
   <h1>Passo a Passo</h1>
     
