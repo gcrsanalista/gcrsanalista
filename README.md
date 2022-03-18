@@ -42,14 +42,11 @@
     
   <h1>Passo a Passo</h1>
       
-
-    
-    <h3> Iniciei meus estudos com o curso superior de </h3>
-    <h3> "Analista e Desenvolvimento de Sistemas" </h3>
-    <h3> na Universidade Católica EAD </h3>
       
-
-
+   <span> Iniciei meus estudos com o curso superior de </span> <br>
+    <span> "Analista e Desenvolvimento de Sistemas" </span> <br>
+     <span> na Universidade "Católica EAD"  </span> <br>
+      
   <h2>Site 01 - Curso Dankicode</h2> 
   <a href="https://github.com/gustavocostaads/dankicode-projeto-01">Link do Repositório</a>
   <br> <br>
