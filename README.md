@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocostaads&layout=compact&langs_count=7&theme=tokyonight" align="center"/>
  
  </div><br>
+
   
   <img  align="left" alt="Gustavo" height="280" width="280" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
 
@@ -46,6 +47,9 @@
    <span> Iniciei meus estudos com o curso superior de </span> <br>
     <span> ***Analista e Desenvolvimento de Sistemas*** </span> <br>
      <span> na Universidade ***Católica EAD***  </span> <br>
+      
+      ![catolica2](https://user-images.githubusercontent.com/85446931/158927992-72581d67-dbc5-4f75-b6ad-3de27e665f2f.png)
+
       
   <h2>Site 01 - Curso Dankicode</h2> 
   <a href="https://github.com/gustavocostaads/dankicode-projeto-01">Link do Repositório</a>
