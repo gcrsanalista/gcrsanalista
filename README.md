@@ -3,7 +3,7 @@
     <h3>Lá embaixo tem meu histórico de estudos, confira!</h3>
 </div> 
   
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
 
   <a href="https://github.com/gustavocostaads">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavocostaads&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"     align="center"/>
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" img align="center"></a> <br> <span> https://www.linkedin.com/in/gustavo-costa-0554501b9/ </span>
 
   
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" img align="center"> <br> <span> Kintaro_Sakamoto#0898</span>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" img align="center"> <br> <span> Kintaro_Sakamoto#0898</span>
     
    </div>
     
