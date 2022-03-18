@@ -48,7 +48,7 @@
     <span> ***Analista e Desenvolvimento de Sistemas*** </span> <br>
      <span> na Universidade ***Católica EAD***  </span> <br>
       
-      ![catolica2](https://user-images.githubusercontent.com/85446931/158927992-72581d67-dbc5-4f75-b6ad-3de27e665f2f.png)
+      ![catolica2](https://user-images.githubusercontent.com/85446931/158928243-b991cfb4-9c6f-4531-97b0-1cc21515b57e.png)
 
       
   <h2>Site 01 - Curso Dankicode</h2> 
