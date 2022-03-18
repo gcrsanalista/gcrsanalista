@@ -44,8 +44,8 @@
       
       
    <span> Iniciei meus estudos com o curso superior de </span> <br>
-    <span> "Analista e Desenvolvimento de Sistemas" </span> <br>
-     <span> na Universidade "Católica EAD"  </span> <br>
+    <span> ***Analista e Desenvolvimento de Sistemas*** </span> <br>
+     <span> na Universidade ***Católica EAD***  </span> <br>
       
   <h2>Site 01 - Curso Dankicode</h2> 
   <a href="https://github.com/gustavocostaads/dankicode-projeto-01">Link do Repositório</a>
@@ -67,7 +67,8 @@
   
   <h2>Estrutura inicial react para app do zero- Curso Ignit - Rocketseat - Trilha React</h2>
   Instalando todos os pacotes 1 a 1 e configurando webpack, babel entre outras configurações.
-  Package.json
+  
+  "Package.json
   {
   "name": "01-github-explorer",
   "version": "1.0.0",
@@ -101,16 +102,17 @@
     "typescript": "^4.5.5",
     "webpack": "^5.66.0",
     "webpack-cli": "^4.9.1",
-    "webpack-dev-server": "^4.7.3"
+    "webpack-dev-server": "^4.7.3""
   }
 }
     
-  <a href="https://github.com/gustavocostaads/Rocketseat-01-github-explorer">Link do Repositório</a>
+  [Link do Repositório](https://github.com/gustavocostaads/Rocketseat-01-github-explorer)
   <br> <br>
   <img src="https://github.com/gustavocostaads/Rocketseat-01-github-explorer/blob/main/2022-01-28-12-09-16.gif">
   <br><br>
   
-   <h2>Primeiro projeto em typescript / React, curso Rocketseat - Ignit - Trilha React - Segundo Capítulo</h2>
+   <h2>1º projeto Curso Rocketseat</h2>
+      Primeiro projeto em typescript / React, curso Rocketseat - Ignit - Trilha React - Segundo Capítulo
   
   <a href="https://github.com/gustavocostaads/dtmoney">Link do Repositório</a>
   <br> <br>
