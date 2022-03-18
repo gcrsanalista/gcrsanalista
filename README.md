@@ -6,14 +6,14 @@
 <div align="center" style="display: inline_block">
 
   <a href="https://github.com/gustavocostaads">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavocostaads&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"     align="center"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocostaads&layout=compact&langs_count=7&theme=tokyonight" align="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocostaads&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"     align="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocostaads&layout=compact&langs_count=7&theme=tokyonight" align="center"/>
  
  </div><br>
   
-  <img  align="left" alt="Gustavo" height="260" width="260" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
+  <img  align="left" alt="Gustavo" height="280" width="280" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
 
-  <a href="https://www.duolingo.com/profile/gustavocostajj" target="_blank"><img src="https://user-images.githubusercontent.com/85446931/145303855-fda5b022-02bd-409f-bfb0-6945c38019c5.jpeg" img alt="Gustavo" height="260" width="260" align="right"></a>
+  <a href="https://www.duolingo.com/profile/gustavocostajj" target="_blank"><img src="https://user-images.githubusercontent.com/85446931/145303855-fda5b022-02bd-409f-bfb0-6945c38019c5.jpeg" img alt="Gustavo" height="280" width="280" align="right"></a>
     
   
   <div align="center">
@@ -41,8 +41,14 @@
   <div align="center">
     
   <h1>Passo a Passo</h1>
+      
+  <div class="titulo" style = line-height="1">
     
-  <h3>Iniciei meus estudos com o curso superior de Analista e Desenvolvimento de Sistemas na Universidade Católica EAD </h3>
+    <h3>Iniciei meus estudos com o curso superior de </h3>
+    <h3>"Analista e Desenvolvimento de Sistemas" </h3>
+    <h3> na Universidade Católica EAD </h3>
+      
+  </div>
 
   <h2>Site 01 - Curso Dankicode</h2> 
   <a href="https://github.com/gustavocostaads/dankicode-projeto-01">Link do Repositório</a>
