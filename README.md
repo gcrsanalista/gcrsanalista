@@ -38,7 +38,9 @@
     
   </div>
     
-  <h1>Sequência de Projetos</h1>
+  <h1>Passo a Passo</h1>
+    
+  <h3>Iniciei meus estudos com o curso superior de Analista e Desenvolvimento de Sistemas na Universidade Católica EAD </h3>
 
   <h2>Site 01 - Curso Dankicode</h2> 
   <a href="https://github.com/gustavocostaads/dankicode-projeto-01">Link do Repositório</a>
