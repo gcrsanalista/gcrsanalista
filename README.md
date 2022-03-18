@@ -42,13 +42,13 @@
     
   <h1>Passo a Passo</h1>
       
-  <div class="titulo" style = line-height="1">
+
     
-    <h3>Iniciei meus estudos com o curso superior de </h3>
-    <h3>"Analista e Desenvolvimento de Sistemas" </h3>
+    <h3> Iniciei meus estudos com o curso superior de </h3>
+    <h3> "Analista e Desenvolvimento de Sistemas" </h3>
     <h3> na Universidade Católica EAD </h3>
       
-  </div>
+
 
   <h2>Site 01 - Curso Dankicode</h2> 
   <a href="https://github.com/gustavocostaads/dankicode-projeto-01">Link do Repositório</a>
