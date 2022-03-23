@@ -41,7 +41,7 @@
     
   <div align="center">
     
-  <h1>Passo a Passo</h1>
+  <h1>Histórico de Estudos</h1>
       
       
    <span> Iniciei meus estudos com o curso superior de </span> <br>
