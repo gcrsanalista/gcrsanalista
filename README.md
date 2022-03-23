@@ -50,8 +50,19 @@
       
  ![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
 
+     <h1>Curso DankiCode</h1>
       
-  <h2>Site 01 - Curso Dankicode</h2> 
+      ![dankicode](https://user-images.githubusercontent.com/85446931/159807583-f8612dfc-e76d-402e-9e1d-a5df76f0ae70.png)
+
+      
+     <span> Após a conclusão do curso superior, busquei cursos para me especializar no front end </span> <br>
+     <span> Inicialmente fiz 42% do curso "Front-End Completo" do site DankiCode </span> <br>
+     <span> Pratiquei bastante a parte de HTML, CSS e um pouco de Javascript, porém, senti falta de conceitos, por se tratar de um curso extremamente prático </span> <br>
+     <span> Senti necessidade de iniciar no Javascript e me indicaram o curso "Ignit" da "Rocketseat" </span> <br>
+     <span> Confira alguns sites que criei na DankiCode </span> <br>
+      
+  <h2>Site 01 - Curso DankiCode</h2> 
+
   <a href="https://github.com/gustavocostaads/dankicode-projeto-01">Link do Repositório</a>
   <br> <br>
   <img src="https://github.com/gustavocostaads/dankicode-projeto-01/blob/main/Imagens/Projeto01.png">
