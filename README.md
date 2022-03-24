@@ -37,9 +37,9 @@
     
   ![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
     
-  </div>
+
     
-  <div align="center">
+
     
   <h1>Histórico de Estudos</h1>
       
@@ -50,16 +50,16 @@
       
  ![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
 
-     <h1>Curso DankiCode</h1>
+ Após a conclusão do curso superior, busquei cursos para me especializar no front end
+ Inicialmente fiz 42% do curso Front-End Completo do site DankiCode
+ Pratiquei a parte de HTML, CSS e um pouquinho de Javascript, porém, senti falta de conceitos. Por se tratar de um curso extremamente prático
+ Senti a necessidade de iniciar no Javascript em outro curso e me indicaram o curso Ignit da Rocketseat.
+ Confira alguns sites que criei na DankiCode
+     
+   <h1>Curso DankiCode</h1>
       
-      ![dankicode](https://user-images.githubusercontent.com/85446931/159807583-f8612dfc-e76d-402e-9e1d-a5df76f0ae70.png)
+ ![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png)
 
-      
-     <span> Após a conclusão do curso superior, busquei cursos para me especializar no front end </span> <br>
-     <span> Inicialmente fiz 42% do curso "Front-End Completo" do site DankiCode </span> <br>
-     <span> Pratiquei bastante a parte de HTML, CSS e um pouco de Javascript, porém, senti falta de conceitos, por se tratar de um curso extremamente prático </span> <br>
-     <span> Senti necessidade de iniciar no Javascript e me indicaram o curso "Ignit" da "Rocketseat" </span> <br>
-     <span> Confira alguns sites que criei na DankiCode </span> <br>
       
   <h2>Site 01 - Curso DankiCode</h2> 
 
@@ -80,7 +80,19 @@
   <img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01.png">
   <br><br>
   
-  <h2>Estrutura inicial react para app do zero- Curso Ignit - Rocketseat - Trilha React</h2>
+<h1>Curso Rocketseat Ignit e discover</h1>
+![rocketseat](https://user-images.githubusercontent.com/85446931/159813686-f1798c9c-fc0d-4253-b140-d8645bec0b70.png)
+      
+Esse curso da Rocketseat foi mais prático que o da DankiCode. Aprendi apenas a visualizar o que é, realmente, a criação de uma api do zero.
+Instalando todas as bibliotecas e frameworks de todo tipo e forma.
+Aprendi a me frustrar com bugs intermináveis que me deixaram por alguns dias quebrando a cabeça para conseguir arrumar.
+Mas o curso era um grande copiar e colar sem nenhuma explicação, como foi mostrado na foto, necessitava de um pré requisito de anos de prática.
+Percebi que o curso não era o que eu precisava no momento, pois misturou muitas tecnologias, typescript, react, saas e o momento pra mim era
+de aprender o básico do Javascript, a fundação, conceitos, e muita prática da linguagem original, então, poderei após isso, distinguir o que é babel/cli, babel/core, babel/preset-env, babel/preset-react, babel/preset-typescript, pmmmwh/react-refresh-webpack-plugin, types/react-dom, babel-loader, cross-env, css-loader, html-webpack-plugin, node-sass, react-refresh, sass-loader, style-loader, typescript, webpack, webpack-cli, webpack-dev-server.
+      
+  Segue 2 trabalhos que fiz no curso:
+      
+  <h2>Estrutura inicial react para app do zero - Curso Ignit - Rocketseat - Trilha React</h2>
   Instalando todos os pacotes 1 a 1 e configurando webpack, babel entre outras configurações.
   
   "Package.json
@@ -133,5 +145,24 @@
   <br> <br>
   <img src="https://github.com/gustavocostaads/dtmoney/blob/main/grava%C3%A7%C3%A3o.gif">
   <br> <br>
+      
+<h1>Curso Web Moderno Completo com JavaScript 2022 + Projetos</h1>
+![webmoderno](https://user-images.githubusercontent.com/85446931/159816953-f9bd17e2-e732-4c39-9c90-45c9e0e7aee7.png)
+      
+Fui para esse curso de Javascript que é muito bem recomendado. Ele é o contrário dos outros 2 cursos que fiz, é muito conceitual.
+São 97 horas de curso e eu já fiz 40%, quase 40 Horas e agora que estou saindo do HTML e CSS.
+Nesse curso o professor iniciou com conceitos básicos do javascript: Estruturas de controle, Função, Objeto, Array, Node, ESNext, depois, HTML e CSS (por enquanto), em seguida vem, Ajax, Gulp, Webpack, JQuery, Bootstrap, React, VueJS, Angular 9, Banco Relacional, Banco não relacional, Express e alguns projetos. 
+O curso inicialmente é massante e torturante para iniciantes porque é explicado sem podermos praticar, somente longas 40 horas de explicação. Porém, não tenho do que reclamar sobre conceitos e sobre o grandíssimo conhecimento do professor Leonardo Moura Leitao.
+      
+      
+      
+      
+      
+      
+      
+      
+
  
- </div>
+      
+      
+  </div>
