@@ -160,7 +160,7 @@ Meu objetivo final é poder ajudar no sistema de gerenciamente da engenharia do 
       
   [Link do Repositório](https://github.com/gustavocostaads/flappybird)
   <br> <br>
-  <img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif>
+  <img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif">
   <br><br> 
       
 </div>
