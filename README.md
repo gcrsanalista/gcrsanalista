@@ -1,6 +1,6 @@
 ## <h1 align = "center"> <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" > Olá
 <div align="center" style="display: inline_block">
-    <h3>Lá embaixo tem meu histórico de estudos, confira!</h3>
+    <h3>Desça a tela e confira meu histórico de estudos.:satisfied: </h3>
 </div> 
   
 <div align="center" style="display: inline_block">
@@ -50,7 +50,7 @@
       
  ![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
 
-Após a conclusão do curso superior, busquei cursos para me especializar no front end. Inicialmente fiz 42% do curso Front-End Completo do site DankiCode. Pratiquei a parte de HTML, CSS e um pouquinho de Javascript, porém, senti falta de conceitos. Por se tratar de um curso extremamente prático. Senti a necessidade de iniciar no Javascript em outro curso e me indicaram o curso Ignit da Rocketseat. <br>
+Após a conclusão do curso superior busquei cursos para me especializar no front end. Inicialmente fiz 42% do curso Front-End Completo do site DankiCode. Pratiquei a parte de HTML, CSS e um pouquinho de Javascript, porém, senti falta de conceitos. Por se tratar de um curso extremamente prático. Senti a necessidade de iniciar no Javascript em outro curso e me indicaram o curso Ignit da Rocketseat. <br>
 Confira alguns sites que criei na DankiCode, são simples, mas o início é assim mesmo...
      
    <h1>Curso DankiCode</h1>
