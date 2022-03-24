@@ -155,5 +155,10 @@ O curso inicialmente é massante e torturante para iniciantes porque é explicad
 Após esse curso, pretendo trabalhar na prática básica do Javascript e avançar com pequenas resoluções e projetos.
       
 Meu objetivo final é poder ajudar no sistema de gerenciamente da engenharia do Senado Federal que é um projeto grandioso e complexo onde eu trabalho atualmente, porém, estou no setor de orçamento.
-
+      
+  [Link do Repositório](https://github.com/gustavocostaads/flappybird)
+  <br> <br>
+  <img src="https://github.com/gustavocostaads/dtmoney/blob/main/grava%C3%A7%C3%A3o.gif">
+  <br><br> 
+      
 </div>
