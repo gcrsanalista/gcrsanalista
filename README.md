@@ -156,9 +156,11 @@ Após esse curso, pretendo trabalhar na prática básica do Javascript e avança
       
 Meu objetivo final é poder ajudar no sistema de gerenciamente da engenharia do Senado Federal que é um projeto grandioso e complexo onde eu trabalho atualmente, porém, estou no setor de orçamento.
       
+<h2>Projeto Flappy Bird - Curso Web Moderno</h2>
+      
   [Link do Repositório](https://github.com/gustavocostaads/flappybird)
   <br> <br>
-  <img src="https://github.com/gustavocostaads/dtmoney/blob/main/grava%C3%A7%C3%A3o.gif">
+  <img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif>
   <br><br> 
       
 </div>
