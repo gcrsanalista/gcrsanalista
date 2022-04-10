@@ -78,7 +78,8 @@ Confira alguns sites que criei na DankiCode, são simples, mas o início é assi
   <br><br>
   
 <h1>Curso Rocketseat Ignit e discover</h1>
-![rocketseat](https://user-images.githubusercontent.com/85446931/159813686-f1798c9c-fc0d-4253-b140-d8645bec0b70.png)
+      
+![rocketseat](https://user-images.githubusercontent.com/85446931/162638662-0c99b7d7-9d1f-4fa9-8c56-41cbfb57fb98.png)
       
 Esse curso da Rocketseat foi mais prático que o da DankiCode. Aprendi apenas a visualizar o que é, realmente, a criação de uma api do zero.
 Instalando todas as bibliotecas e frameworks de todo tipo e forma.
