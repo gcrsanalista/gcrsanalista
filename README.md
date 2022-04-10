@@ -149,18 +149,17 @@ de aprender o básico do Javascript, a fundação, conceitos, e muita prática d
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
       
 Fui para esse curso de Javascript que é muito bem recomendado. Ele é o contrário dos outros 2 cursos que fiz, é muito conceitual.
-São 97 horas de curso e eu já fiz 40%, quase 40 Horas e agora que estou saindo do HTML e CSS.
+São 97 horas de curso e eu já fiz 40%, quase 40 Horas.
 Nesse curso o professor iniciou com conceitos básicos do javascript: Estruturas de controle, Função, Objeto, Array, Node, ESNext, depois, HTML e CSS (por enquanto), em seguida vem, Ajax, Gulp, Webpack, JQuery, Bootstrap, React, VueJS, Angular 9, Banco Relacional, Banco não relacional, Express e alguns projetos. 
-O curso inicialmente é massante e torturante para iniciantes porque é explicado sem podermos praticar, somente longas 40 horas de explicação. Porém, não tenho do que reclamar sobre conceitos e sobre o grandíssimo conhecimento do professor Leonardo Moura Leitao.
+O curso inicialmente é massante e torturante porque é explicado sem podermos praticar e o conteúdo é longo sobre coisas que deveriam ser simples. Somente longas 40 horas de explicação sem boa didática ao estilo Gustavo Guanabara. Sei que o professor Leonardo Moura Leitao tem grande conhecimento mas parece que não faz o curso para o público e sim para demonstrar o seu grande conhecimento. Resumo, aprendi 10% do que vi e desisto do curso. O bom é que eu já sei o que tenho que fazer. Prática.
       
-Após esse curso, pretendo trabalhar na prática básica do Javascript e avançar com pequenas resoluções e projetos.
+Pretendo estudar, a partir de agora, na prática do Javascript puro.
       
-Meu objetivo final é poder ajudar no sistema de gerenciamente da engenharia do Senado Federal que é um projeto grandioso e complexo onde eu trabalho atualmente, porém, estou no setor de orçamento.
       
 <h2>Projeto Flappy Bird - Curso Web Moderno</h2>
       
   [Link do Repositório](https://github.com/gustavocostaads/flappybird)
-  <br> <br>
+  <br> Eu não entendi quase nada desse jogo, infelizmente foi copiar e colar e a explicação foi rasa, mas, ficou legal kk <br>
   <img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif">
   <br><br> 
       
