@@ -158,7 +158,7 @@ Pretendo estudar, a partir de agora, na prática do Javascript puro.
       
 <h2>Projeto Flappy Bird - Curso Web Moderno</h2>
       
-  [Link do Repositório](https://github.com/gustavocostaads/flappybird)
+  [Jogue também... O máximo que consegui foram 8, vc consegue mais? Duvido...](https://gustavocostaads.github.io/flappybird)
   <br> Eu não entendi quase nada desse jogo, infelizmente foi copiar e colar e a explicação foi rasa, mas, ficou legal kk <br>
   <img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif">
   <br><br> 
