@@ -43,8 +43,9 @@
     
   <h1>Histórico de Estudos</h1>
       
+      Decidi fazer uma transição da minha área de engenharia e arquitetura para tecnologia da informação no início da pandemia, em 2020. É uma área que sempre gostei desde criança e nunca tive a oportunidade de estudá-la.<br>
       
-   <span> Iniciei meus estudos com o curso superior de </span> <br>
+      <span> Iniciei meus estudos com o curso superior de </span> <br>
     <span> ***Analista e Desenvolvimento de Sistemas*** </span> <br>
      <span> na Universidade ***Católica EAD***  </span> <br>
       
@@ -148,14 +149,14 @@ de aprender o básico do Javascript, a fundação, conceitos, e muita prática d
       
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
       
-Fui para esse curso de Javascript que é muito bem recomendado. Ele é o contrário dos outros 2 cursos que fiz, é muito conceitual.
-São 97 horas de curso e eu já fiz 40%, quase 40 Horas.
+Fui para esse curso de Javascript que é muito bem recomendado. Ele é o contrário dos outros 2 cursos que fiz. Muito conceito.
+São 97 horas de curso e eu já fiz 40%, quase 40 Horas e não aprendi muita coisa. Ví centenas de comentários com pessoas com o mesmo sentimento quem o meu, de escutar escutar escutar e não entender nada.
 Nesse curso o professor iniciou com conceitos básicos do javascript: Estruturas de controle, Função, Objeto, Array, Node, ESNext, depois, HTML e CSS (por enquanto), em seguida vem, Ajax, Gulp, Webpack, JQuery, Bootstrap, React, VueJS, Angular 9, Banco Relacional, Banco não relacional, Express e alguns projetos. 
-O curso inicialmente é massante e torturante porque é explicado sem podermos praticar e o conteúdo é longo sobre coisas que deveriam ser simples. Somente longas 40 horas de explicação sem boa didática ao estilo Gustavo Guanabara. Sei que o professor Leonardo Moura Leitao tem grande conhecimento mas parece que não faz o curso para o público e sim para demonstrar o seu grande conhecimento. Resumo, aprendi 10% do que vi e desisto do curso. O bom é que eu já sei o que tenho que fazer. Prática.
+O curso é massante e torturante porque é explicado sem podermos praticar e o conteúdo é longo sobre coisas que deveriam ser simples. Somente longas 40 horas de explicação sem boa prática. Sei que o professor tem grande conhecimento mas parece que não faz o curso para o público e sim para demonstrar o seu grande conhecimento. Resumo, aprendi 10% do que vi e desisto do curso. O bom é que eu já sei o que tenho que fazer. Prática.
       
-Pretendo estudar, a partir de agora, na prática do Javascript puro.
+Pretendo estudar, a partir de agora, a prática do Javascript puro.
       
-      
+      Esse foi o único projeto que fiz do curso...
 <h2>Projeto Flappy Bird - Curso Web Moderno</h2>
       
   [Jogue também... O máximo que consegui foram 8, vc consegue mais? Duvido...](https://gustavocostaads.github.io/flappybird)
@@ -164,3 +165,5 @@ Pretendo estudar, a partir de agora, na prática do Javascript puro.
   <br><br> 
       
 </div>
+    
+    Buscando novas alternativas de aprendizado de Javascript Puro me deparei com um canal no youtube. "Roger Melo" https://www.youtube.com/c/RogerMelo/videos (nunca mais compro curso pago (tirando o Alura que tenho curiosidade e parece ser muito bom, mas não tenho 80R$ por mês))
