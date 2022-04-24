@@ -170,14 +170,12 @@ Pretendo estudar, a partir de agora, a prática do Javascript puro.
   [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)</span> 
   <span> Tenho gostado muito do conteúdo e tem me ajudado bastante.
   <img src=https://user-images.githubusercontent.com/85446931/164982023-4c025e6f-f888-42f9-ad87-18980a20de0f.png> 
-      <br>
+  <br>
 
 
 
-      <h3>Projeto Pokedex - Canal Roger Melo</h3>
-
-      
-Buscando novas alternativas de aprendizado de Javascript Puro, me deparei com um canal no youtube.       
+<h3>Projeto Pokedex - Canal Roger Melo</h3>
+           
 [link repositório](https://github.com/gustavocostaads/pokedexKintaro)
 <img src="https://user-images.githubusercontent.com/85446931/164983739-e3bfcaa6-b7dd-45b5-9a2f-7f4661466897.gif">
 Fiz uma pokedex e fiquei feliz por ter conseguido resolver um problema de link quebrado para 
