@@ -169,19 +169,25 @@ Pretendo estudar, a partir de agora, a prática do Javascript puro.
   <span>Buscando novas alternativas de aprendizado de Javascript Puro, me deparei com um canal no youtube. 
   [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)</span> 
   <span> Tenho gostado muito do conteúdo e tem me ajudado bastante.
-  <img src=https://user-images.githubusercontent.com/85446931/164982023-4c025e6f-f888-42f9-ad87-18980a20de0f.png>
+  <img src=https://user-images.githubusercontent.com/85446931/164982023-4c025e6f-f888-42f9-ad87-18980a20de0f.png> 
+      <br>
 
 
-<h3>Projeto Pokedex - Canal Roger Melo</h3>
+
+      <h3>Projeto Pokedex - Canal Roger Melo</h3>
+
       
-          [link repositório](https://github.com/gustavocostaads/pokedexKintaro)
-          <img src="https://user-images.githubusercontent.com/85446931/164983739-e3bfcaa6-b7dd-45b5-9a2f-7f4661466897.gif">
-          <span>Fiz uma pokedex e fiquei feliz por ter conseguido resolver um problema de link quebrado para 
-          as imagens que existia desde 2021.Desenvolvi uma lógica que não existia nos comentários.</span>
-          <span>Veja:</span>
-          <img src="https://user-images.githubusercontent.com/85446931/164983858-078fb729-e5ed-4c18-9a8c-52a77359af3d.png">
+Buscando novas alternativas de aprendizado de Javascript Puro, me deparei com um canal no youtube.       
+[link repositório](https://github.com/gustavocostaads/pokedexKintaro)
+<img src="https://user-images.githubusercontent.com/85446931/164983739-e3bfcaa6-b7dd-45b5-9a2f-7f4661466897.gif">
+Fiz uma pokedex e fiquei feliz por ter conseguido resolver um problema de link quebrado para 
+as imagens que existia desde 2021.Desenvolvi uma lógica que não existia nos comentários.
+Veja:</span>
+<img src="https://user-images.githubusercontent.com/85446931/164983858-078fb729-e5ed-4c18-9a8c-52a77359af3d.png">
           
-      </div>
+
+          
+</div>
           
 
 
