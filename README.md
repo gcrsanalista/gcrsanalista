@@ -156,14 +156,29 @@ O curso é massante e torturante porque é explicado sem podermos praticar e o c
       
 Pretendo estudar, a partir de agora, a prática do Javascript puro.
       
-      E
+      
 <h2>Projeto Flappy Bird - Curso Web Moderno</h2>
       
-  sse foi o único projeto que fiz do curso...[Jogue também... O máximo que consegui foram 8, vc consegue mais? Duvido...](https://gustavocostaads.github.io/flappybird)
+  <p>Esse foi o único projeto que fiz do curso...[Jogue também... O máximo que consegui foram 8, vc consegue mais? Duvido...](https://gustavocostaads.github.io/flappybird)
   <br> Eu não entendi quase nada desse jogo, infelizmente foi copiar e colar e a explicação foi rasa, mas, ficou legal kk <br>
-  <img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif">
+  <img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif"> </p>
   <br><br> 
       
-</div>
-    
-    Buscando novas alternativas de aprendizado de Javascript Puro me deparei com um canal no youtube. ["Roger Melo"](https://www.youtube.com/c/RogerMelo/videos) (nunca mais compro curso pago (tirando o Alura que tenho curiosidade e parece ser muito bom, mas não tenho 80R$ por mês))
+<h2>Canal Roger Melo</h2>
+      
+  <span>Buscando novas alternativas de aprendizado de Javascript Puro, me deparei com um canal no youtube. 
+  [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)</span> 
+  <img src=https://user-images.githubusercontent.com/85446931/164982023-4c025e6f-f888-42f9-ad87-18980a20de0f.png>
+      <span> Tenho gostado muito do conteúdo e tem me ajudado bastante.
+          
+          <h3>Projeto Pokedex - Canal Roger Melo</h3>
+          [link repositório](https://github.com/gustavocostaads/pokedexKintaro)
+          <img src="https://user-images.githubusercontent.com/85446931/164983739-e3bfcaa6-b7dd-45b5-9a2f-7f4661466897.gif">
+          <span>Fiz uma pokedex e fiquei feliz por ter conseguido resolver um problema de link quebrado para as imagens que existia desde 2021.Desenvolvi uma lógica que não existia nos comentários.</span>
+          <span>Veja:</span>
+          <img src="https://user-images.githubusercontent.com/85446931/164983858-078fb729-e5ed-4c18-9a8c-52a77359af3d.png">
+          
+     
+          
+
+
