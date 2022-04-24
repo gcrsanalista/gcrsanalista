@@ -168,8 +168,9 @@ Pretendo estudar, a partir de agora, a prática do Javascript puro.
       
   <span>Buscando novas alternativas de aprendizado de Javascript Puro, me deparei com um canal no youtube. 
   [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)</span> 
+  <span> Tenho gostado muito do conteúdo e tem me ajudado bastante.
   <img src=https://user-images.githubusercontent.com/85446931/164982023-4c025e6f-f888-42f9-ad87-18980a20de0f.png>
-      <span> Tenho gostado muito do conteúdo e tem me ajudado bastante.
+
           
           <h3>Projeto Pokedex - Canal Roger Melo</h3>
           [link repositório](https://github.com/gustavocostaads/pokedexKintaro)
