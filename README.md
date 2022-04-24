@@ -156,14 +156,14 @@ O curso é massante e torturante porque é explicado sem podermos praticar e o c
       
 Pretendo estudar, a partir de agora, a prática do Javascript puro.
       
-      Esse foi o único projeto que fiz do curso...
+      E
 <h2>Projeto Flappy Bird - Curso Web Moderno</h2>
       
-  [Jogue também... O máximo que consegui foram 8, vc consegue mais? Duvido...](https://gustavocostaads.github.io/flappybird)
+  sse foi o único projeto que fiz do curso...[Jogue também... O máximo que consegui foram 8, vc consegue mais? Duvido...](https://gustavocostaads.github.io/flappybird)
   <br> Eu não entendi quase nada desse jogo, infelizmente foi copiar e colar e a explicação foi rasa, mas, ficou legal kk <br>
   <img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif">
   <br><br> 
       
 </div>
     
-    Buscando novas alternativas de aprendizado de Javascript Puro me deparei com um canal no youtube. "Roger Melo" https://www.youtube.com/c/RogerMelo/videos (nunca mais compro curso pago (tirando o Alura que tenho curiosidade e parece ser muito bom, mas não tenho 80R$ por mês))
+    Buscando novas alternativas de aprendizado de Javascript Puro me deparei com um canal no youtube. ["Roger Melo"](https://www.youtube.com/c/RogerMelo/videos) (nunca mais compro curso pago (tirando o Alura que tenho curiosidade e parece ser muito bom, mas não tenho 80R$ por mês))
