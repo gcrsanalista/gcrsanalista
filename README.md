@@ -1,7 +1,9 @@
-## <h1 align = "center"> <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "10px" > Olá
-<div align="center" style="display: inline_block">
-    <h3>Desça a tela e confira meu histórico de estudos.:satisfied: </h3>
-</div> 
+
+### Confira meu histórico de estudos lá embaixo.:satisfied: 
+
+<img width="200" height="400" src="https://giphy.com/embed/Vbu81VdHHL2g2KqpRK.gif"  />
+
+
   
 <div align="center" style="display: inline_block">
 
