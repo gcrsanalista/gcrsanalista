@@ -1,4 +1,4 @@
-## <h1 align = "center"> <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" > Olá
+## <h1 align = "center"> <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "10px" > Olá
 <div align="center" style="display: inline_block">
     <h3>Desça a tela e confira meu histórico de estudos.:satisfied: </h3>
 </div> 
