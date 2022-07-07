@@ -1,11 +1,10 @@
-
+<div align="center" style="display: inline_block">
+  
 ### Confira meu histórico de estudos lá embaixo.:satisfied: 
 
-![img][https://media3.giphy.com/media/Vbu81VdHHL2g2KqpRK/giphy.gif]
-
-<img src="https://media3.giphy.com/media/Vbu81VdHHL2g2KqpRK/giphy.gif" width="100" height="100">
+<img src="https://media3.giphy.com/media/Vbu81VdHHL2g2KqpRK/giphy.gif" width="200" align="left">
   
-<div align="center" style="display: inline_block">
+
 
   <a href="https://github.com/gustavocostaads">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocostaads&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"     align="center"/>
