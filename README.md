@@ -1,31 +1,30 @@
+<div align="center"style="display: block">
+  
+###Confira meu histórico de estudos lá embaixo.:satisfied: <br><br>
+  
+<img src="https://media3.giphy.com/media/Vbu81VdHHL2g2KqpRK/giphy.gif" width="200" align="center">
+</div>
+
+<br>
+
 <div align="center" style="display: inline_block">
-  
-### Confira meu histórico de estudos lá embaixo.:satisfied: 
-
-<img src="https://media3.giphy.com/media/Vbu81VdHHL2g2KqpRK/giphy.gif" width="200" align="left">
-  
-
-
-  <a href="https://github.com/gustavocostaads">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocostaads&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"     align="center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocostaads&layout=compact&langs_count=7&theme=tokyonight" align="center"/>
+<a href="https://github.com/gustavocostaads">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocostaads&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"     align="center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocostaads&layout=compact&langs_count=7&theme=tokyonight" align="center"/>
  
- </div><br>
-
-  <iframe src="https://giphy.com/embed/4RbZ8cZYuApO0" width="480" height="245" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/evangelion-neon-genesis-4RbZ8cZYuApO0">via GIPHY</a></p>
+</div><br>
   
-  
-  <img  align="left" alt="Gustavo" height="280" width="280" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
+<img  align="left" alt="Gustavo" height="280" width="280" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
 
-  <a href="https://www.duolingo.com/profile/gustavocostajj" target="_blank"><img src="https://user-images.githubusercontent.com/85446931/145303855-fda5b022-02bd-409f-bfb0-6945c38019c5.jpeg" img alt="Gustavo" height="280" width="280" align="right"></a>
+<a href="https://www.duolingo.com/profile/gustavocostajj" target="_blank"><img src="https://user-images.githubusercontent.com/85446931/145303855-fda5b022-02bd-409f-bfb0-6945c38019c5.jpeg" img alt="Gustavo" height="280" width="280" align="right"></a>
     
   
-  <div align="center">
+<div align="center">
    
-  <a href="https://www.youtube.com/watch?v=jjOd-HvOZqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <br> <span> Canal do meu filho. Deixa o like </span>
+<a href="https://www.youtube.com/watch?v=jjOd-HvOZqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <br> <span> Canal do meu filho. Deixa o like </span>
   
 
-  <a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center"></a> <br> <span> gustavocostaads@gmail.com </span>
+<a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center"></a> <br> <span> gustavocostaads@gmail.com </span>
   
   
   <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" img align="center"></a> <br> <span> https://www.linkedin.com/in/gustavo-costa-0554501b9/ </span>
