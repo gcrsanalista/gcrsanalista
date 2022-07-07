@@ -14,10 +14,10 @@
  
 </div><br>
     
-<img  align="left" alt="Gustavo" height="280" width="280" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
-
-<a href="https://www.duolingo.com/profile/gustavocostajj" target="_blank"><img src="https://user-images.githubusercontent.com/85446931/145303855-fda5b022-02bd-409f-bfb0-6945c38019c5.jpeg" img alt="Gustavo" height="280" width="280" align="right"></a>
-    
+<div>
+<img  align="left"  height="280" width="280" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
+<a href="https://www.duolingo.com/profile/gustavocostajj" target="_blank"><img src="https://user-images.githubusercontent.com/85446931/145303855-fda5b022-02bd-409f-bfb0-6945c38019c5.jpeg" img alt="Gustavo" height="280" width="280" align="right"></a>  
+</div>
   
 <div align="center">
    
