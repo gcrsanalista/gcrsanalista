@@ -1,9 +1,9 @@
 
 ### Confira meu histórico de estudos lá embaixo.:satisfied: 
 
-<img width="200" height="400" src="https://giphy.com/embed/Vbu81VdHHL2g2KqpRK.gif"  />
+![img][https://media3.giphy.com/media/Vbu81VdHHL2g2KqpRK/giphy.gif]
 
-
+<img src="https://media3.giphy.com/media/Vbu81VdHHL2g2KqpRK/giphy.gif" width="100" height="100">
   
 <div align="center" style="display: inline_block">
 
@@ -13,6 +13,8 @@
  
  </div><br>
 
+  <iframe src="https://giphy.com/embed/4RbZ8cZYuApO0" width="480" height="245" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/evangelion-neon-genesis-4RbZ8cZYuApO0">via GIPHY</a></p>
+  
   
   <img  align="left" alt="Gustavo" height="280" width="280" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
 
