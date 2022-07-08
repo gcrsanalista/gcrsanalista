@@ -39,109 +39,76 @@
 ![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
      
 ## Histórico de Estudos  
-  
-<br>
-  
 Decidi fazer uma transição de carreira. Atuo na área da engenharia e arquitetura, sou técnico em edificações. Tecnologia é uma área que sempre gostei desde criança.
-
-<br>
   
 <br>   
     
 ## Início - 2020 antes da pandemia
+Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br>
   
-<br>
-  
-Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD
-  
-<br>
+
   
 ![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
   
 <br>
   
 <div align="left">  
-  
-Resumo:
-  
-<br>
-  
-- Base em diversas áreas
-  
-<br>
-  
-- Me forçou a estudar coisas que eu não estudaria sozinho, ex: Redes e Consultoria (que achei muito proveitoso).
-  
-<br>
-  
+Resumo: <br>
+- Base em diversas áreas <br>
+- Me forçou a estudar coisas que eu não estudaria sozinho, ex: Redes e Consultoria (que achei muito proveitoso). <br>
 - Network enorme
-  
 <br>
-  
 </div>   
+  
+Minha reação para esse curso <br>
+<img src="https://media3.giphy.com/media/4RbZ8cZYuApO0/giphy.gif" width="400" align="center"> <br>
+"Agora sou superior"
    
-## Gostei de Front End
-    
-<br>
-    
-Após a conclusão do curso superior busquei cursos para me especializar no front end. Inicialmente fiz 42% do curso Front-End Completo do site DankiCode. Pratiquei a parte de HTML, CSS e um pouquinho de Javascript, porém, senti falta de conceitos. Por se tratar de um curso extremamente prático. Senti a necessidade de iniciar no Javascript em outro curso e me indicaram o curso Ignit da Rocketseat. <br>
-Confira alguns sites que criei na DankiCode, são simples, mas o início é assim mesmo...
-     
+## Seguindo com Front-End
+
 ## Curso DankiCode
-     
-<br>
-
-![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png)
-
-      
+![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png) <br>
+<div align="left">
+- 42% do curso <br> <br>
+- Html <br>
+- CSS <br>
+- Javascript (pouco) <br><br>
+- 90% prático
+</div>
+  
 ## Site 01 - Curso DankiCode
 
-<br>
+<a href="https://github.com/gustavocostaads/dankicode-projeto-01">Link do Repositório</a> <br> <br>
+  
+  
+<img src="https://github.com/gustavocostaads/dankicode-projeto-01/blob/main/Imagens/Projeto01.png"> <br> <br>
 
-<a href="https://github.com/gustavocostaads/dankicode-projeto-01">Link do Repositório</a>
-  
-<br>
-  
-<br>
-  
-<img src="https://github.com/gustavocostaads/dankicode-projeto-01/blob/main/Imagens/Projeto01.png">
+## Site 02 - Curso Dankicode
+<a href="https://github.com/gustavocostaads/dankicode-projeto-02">Link do Repositório</a>  <br> <br>
 
-<br>
+<img src="https://github.com/gustavocostaads/dankicode-projeto-02/blob/main/Imagens/projeto02-01aa.png"> <br> <br>
+
+## Site 03 - Curso Dankicode
+<a href="https://github.com/gcrsanalista/dankicode-projeto-03">Link do Repositório</a> <br> <br>
+ 
+<img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01.png"> <br> <br>
   
-<br>
-  
-<h2>Site 02 - Curso Dankicode</h2>
-<a href="https://github.com/gustavocostaads/dankicode-projeto-02">Link do Repositório</a>
-  
-<br>
-  
-<br>
-  
-<img src="https://github.com/gustavocostaads/dankicode-projeto-02/blob/main/Imagens/projeto02-01aa.png">
-  
-<br>
-  
-<br>
-  
-<h2>Site 03 - Curso Dankicode</h2>
-<a href="https://github.com/gcrsanalista/dankicode-projeto-03">Link do Repositório</a>
-  
-<br>
-  
-<br>
-  
-<img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01.png">
-  
-<br>
-  
-<br>
-  
+Minha reação para esse curso <br>
+<img src="https://media3.giphy.com/media/5USTijryafZEQ/giphy.gif" width="400" align="center"> <br>
+"Joia (mas precisa atualizar o curso)"
+
 ## Curso Rocketseat Ignit e discover
       
-![rocketseat](https://user-images.githubusercontent.com/85446931/162638662-0c99b7d7-9d1f-4fa9-8c56-41cbfb57fb98.png)
-      
-Esse curso da Rocketseat foi mais prático que o da DankiCode. Aprendi apenas a visualizar o que é, realmente, a criação de uma api do zero. Instalando todas as bibliotecas e frameworks de todo tipo e forma. Aprendi a me frustrar com bugs intermináveis que me deixaram por alguns dias quebrando a cabeça para conseguir arrumar.
-Mas o curso era um grande copiar e colar sem nenhuma explicação, como foi mostrado na foto, necessitava de um pré requisito de anos de prática. Percebi que o curso não era o que eu precisava no momento, pois misturou muitas tecnologias, typescript, react, saas e o momento pra mim era de aprender o básico do Javascript, a fundação, conceitos, e muita prática da linguagem original, então, poderei após isso, distinguir o que é babel/cli, babel/core, babel/preset-env, babel/preset-react, babel/preset-typescript, pmmmwh/react-refresh-webpack-plugin, types/react-dom, babel-loader, cross-env, css-loader, html-webpack-plugin, node-sass, react-refresh, sass-loader, style-loader, typescript, webpack, webpack-cli, webpack-dev-server. Segue 2 trabalhos que fiz no curso:
+![rocketseat](https://user-images.githubusercontent.com/85446931/162638662-0c99b7d7-9d1f-4fa9-8c56-41cbfb57fb98.png)<br>
+  
+  
+-100% prático <br>
+-Não explica nada <br>
+-Aprendi a corrigir erros, intermináveis erros (isso foi bom) <br>
+-Copiar e Colar <br>
+-Typescript <br>
+-React <br>
+-babel/cli, babel/core, babel/preset-env, babel/preset-react, babel/preset-typescript, pmmmwh/react-refresh-webpack-plugin, types/react-dom, babel-loader, cross-env, css-loader, html-webpack-plugin, node-sass, react-refresh, sass-loader, style-loader, typescript, webpack, webpack-cli, webpack-dev-server
 
 ## Estrutura inicial react para app do zero - Curso Ignit - Rocketseat - Trilha React
 Instalando todos os pacotes 1 a 1 e configurando webpack, babel entre outras configurações.
