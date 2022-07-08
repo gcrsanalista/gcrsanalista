@@ -62,7 +62,7 @@ Resumo: <br>
   
 Minha reação para esse curso <br>
 <img src="https://media3.giphy.com/media/4RbZ8cZYuApO0/giphy.gif" width="400" align="center"> <br>
-"Agora sou superior"
+"Agora sou superior" <br>
    
 ## Seguindo com Front-End
 
@@ -98,7 +98,7 @@ Minha reação para esse curso <br>
   
 Minha reação para esse curso <br>
 <img src="https://media3.giphy.com/media/5USTijryafZEQ/giphy.gif" width="400" align="center"> <br>
-"Joia (mas precisa atualizar o curso)"
+"Joia (mas precisa atualizar o curso)" <br>
 
 ## Curso Rocketseat Ignit e discover
       
@@ -207,6 +207,12 @@ Eu não entendi quase nada desse jogo, infelizmente foi copiar e colar e a expli
 <br>
   
 <br> 
+  
+Minha reação para esse curso <br>
+<img src="https://media3.giphy.com/media/K7NHFtsLG4nqU/giphy.gif" width="400" align="center"> <br>
+"40 hs de teoria!!! Meus olhos ardem! haaaaa!!!!" <br>
+  
+## Vou para o Youtube...
       
 ## Canal Roger Melo
       
