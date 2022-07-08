@@ -43,15 +43,19 @@
     
 
     
-  <h1>Histórico de Estudos</h1>
-      
-      Decidi fazer uma transição da minha área de engenharia e arquitetura para tecnologia da informação no início da pandemia, em 2020. É uma área que sempre gostei desde criança e nunca tive a oportunidade de estudá-la.<br>
-      
-      <span> Iniciei meus estudos com o curso superior de </span> <br>
-    <span> ***Analista e Desenvolvimento de Sistemas*** </span> <br>
-     <span> na Universidade ***Católica EAD***  </span> <br>
-      
- ![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
+## Histórico de Estudos
+    
+<br><br>
+Decidi fazer uma transição de carreira, atuo na área da engenharia e arquitetura, sou técnico em edificações. Tecnologia é uma área que sempre gostei desde criança.
+<br><br>
+    
+### Início 2020 antes da pandemia
+   
+Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD
+<br>
+
+  
+![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
 
 Após a conclusão do curso superior busquei cursos para me especializar no front end. Inicialmente fiz 42% do curso Front-End Completo do site DankiCode. Pratiquei a parte de HTML, CSS e um pouquinho de Javascript, porém, senti falta de conceitos. Por se tratar de um curso extremamente prático. Senti a necessidade de iniciar no Javascript em outro curso e me indicaram o curso Ignit da Rocketseat. <br>
 Confira alguns sites que criei na DankiCode, são simples, mas o início é assim mesmo...
