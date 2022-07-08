@@ -60,9 +60,9 @@ Resumo: <br>
 <br>
 </div>   
   
-Minha reação para esse curso <br>
+:blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/4RbZ8cZYuApO0/giphy.gif" width="400" align="center"> <br>
-"Agora sou superior" <br>
+:blue_square:"Agora sou superior":blue_square: <br>
    
 ## :red_square::red_square::red_square::red_square::red_square:Seguindo com Front-End...:red_square::red_square::red_square::red_square::red_square:
 
@@ -96,9 +96,9 @@ Minha reação para esse curso <br>
  
 <img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01.png"> <br> <br>
   
-Minha reação para esse curso <br>
+:blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/5USTijryafZEQ/giphy.gif" width="400" align="center"> <br>
-"Joia" <br>
+:blue_square:"Joia":blue_square: <br>
 
 ## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais profissional...:red_square::red_square::red_square::red_square::red_square:
   
@@ -179,9 +179,9 @@ Primeiro projeto em typescript / React, curso Rocketseat - Ignit - Trilha React 
   
 <img src="https://github.com/gustavocostaads/dtmoney/blob/main/grava%C3%A7%C3%A3o.gif"> <br>
   
-Minha reação para esse curso <br>
+:blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/aksKSrEEfhgbK/giphy.gif" width="400" align="center"> <br>
-"Copiar e Colar..." <br>
+:blue_square:"Copiar e Colar...":blue_square: <br>
       
 ## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais barato - Udemy...:red_square::red_square::red_square::red_square::red_square:
 ## Curso Web Moderno Completo com JavaScript 2022 + Projetos
@@ -213,9 +213,9 @@ Eu não entendi quase nada desse jogo, infelizmente foi copiar e colar e a expli
   
 <br> 
   
-Minha reação para esse curso <br>
+:blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/K7NHFtsLG4nqU/giphy.gif" width="400" align="center"> <br>
-"40 hs de teoria!!! Meus olhos ardem! haaaaa!!!!" <br>
+:blue_square:"40 hs de teoria!!! Meus olhos ardem! haaaaa!!!!":blue_square: <br>
   
 ## :red_square::red_square::red_square::red_square::red_square:Preciso de Javascript Puro...:red_square::red_square::red_square::red_square::red_square:
       
@@ -235,9 +235,9 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
 - Boa didática <br>
 </div>
   
-Minha reação para esse curso <br>
+:blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/kOCftLxBJCRCU/giphy.gif" width="400" align="center"> <br>
-"Estou começando a enxergar" <br>
+:blue_square:"Estou começando a enxergar":blue_square: <br>
   
 
           
