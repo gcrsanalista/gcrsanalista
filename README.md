@@ -1,6 +1,6 @@
 <div align="center"style="display: block">
   
-## Confira meu histórico de estudos lá embaixo.:satisfied:
+## :arrow_down:Confira meu histórico de estudos :arrow_down:
   
 <img src="https://media3.giphy.com/media/Vbu81VdHHL2g2KqpRK/giphy.gif" width="200" align="center">
 </div>
@@ -38,7 +38,7 @@
  
 ![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
      
-## Histórico de Estudos  
+## :red_square::red_square::red_square::red_square::red_square:Histórico de Estudos:red_square::red_square::red_square::red_square::red_square:
 Decidi fazer uma transição de carreira. Atuo na área da engenharia e arquitetura, sou técnico em edificações. Tecnologia é uma área que sempre gostei desde criança.
   
 <br>   
@@ -64,7 +64,7 @@ Minha reação para esse curso <br>
 <img src="https://media3.giphy.com/media/4RbZ8cZYuApO0/giphy.gif" width="400" align="center"> <br>
 "Agora sou superior" <br>
    
-## Seguindo com Front-End
+## :red_square::red_square::red_square::red_square::red_square:Seguindo com Front-End...:red_square::red_square::red_square::red_square::red_square:
 
 ## Curso DankiCode
 ![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png) <br>
@@ -100,6 +100,8 @@ Minha reação para esse curso <br>
 <img src="https://media3.giphy.com/media/5USTijryafZEQ/giphy.gif" width="400" align="center"> <br>
 "Joia" <br>
 
+## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais profissional...:red_square::red_square::red_square::red_square::red_square:
+  
 ## Curso Rocketseat Ignit e discover
       
 ![rocketseat](https://user-images.githubusercontent.com/85446931/162638662-0c99b7d7-9d1f-4fa9-8c56-41cbfb57fb98.png)<br>
@@ -181,6 +183,7 @@ Minha reação para esse curso <br>
 <img src="https://media3.giphy.com/media/aksKSrEEfhgbK/giphy.gif" width="400" align="center"> <br>
 "Copiar e Colar..." <br>
       
+## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais barato - Udemy...:red_square::red_square::red_square::red_square::red_square:
 ## Curso Web Moderno Completo com JavaScript 2022 + Projetos
       
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
@@ -214,7 +217,7 @@ Minha reação para esse curso <br>
 <img src="https://media3.giphy.com/media/K7NHFtsLG4nqU/giphy.gif" width="400" align="center"> <br>
 "40 hs de teoria!!! Meus olhos ardem! haaaaa!!!!" <br>
   
-## Preciso de Javascript Puro...
+## :red_square::red_square::red_square::red_square::red_square:Preciso de Javascript Puro...:red_square::red_square::red_square::red_square::red_square:
       
 ## Canal Roger Melo
       
