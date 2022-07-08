@@ -69,11 +69,14 @@ Minha reação para esse curso <br>
 ## Curso DankiCode
 ![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png) <br>
 <div align="left">
-- 42% do curso <br> <br>
+- 42% do curso <br>
 - Html <br>
 - CSS <br>
-- Javascript (pouco) <br><br>
-- 90% prático
+- Javascript (pouco) <br>
+- 90% prático <br>
+- Falta atualizar o curso <br>
+- Até que é um bom curso para iniciantes <br>
+- Professor se perde no meio da aula rsrs <br>
 </div>
   
 ## Site 01 - Curso DankiCode
@@ -101,15 +104,15 @@ Minha reação para esse curso <br>
       
 ![rocketseat](https://user-images.githubusercontent.com/85446931/162638662-0c99b7d7-9d1f-4fa9-8c56-41cbfb57fb98.png)<br>
   
+<div align="left">
+- 100% prático <br>
+- Não explica nada, 0% teórico<br>
+- Aprendi a corrigir erros, intermináveis erros (isso foi bom) <br>
+- Typescript <br>
+- React <br>
+- **Pedi reembolso** <br>
+</div>
   
--100% prático <br>
--Não explica nada <br>
--Aprendi a corrigir erros, intermináveis erros (isso foi bom) <br>
--Copiar e Colar <br>
--Typescript <br>
--React <br>
--babel/cli, babel/core, babel/preset-env, babel/preset-react, babel/preset-typescript, pmmmwh/react-refresh-webpack-plugin, types/react-dom, babel-loader, cross-env, css-loader, html-webpack-plugin, node-sass, react-refresh, sass-loader, style-loader, typescript, webpack, webpack-cli, webpack-dev-server
-
 ## Estrutura inicial react para app do zero - Curso Ignit - Rocketseat - Trilha React
 Instalando todos os pacotes 1 a 1 e configurando webpack, babel entre outras configurações.
   
@@ -172,20 +175,23 @@ Primeiro projeto em typescript / React, curso Rocketseat - Ignit - Trilha React 
   
 <br>
   
-<img src="https://github.com/gustavocostaads/dtmoney/blob/main/grava%C3%A7%C3%A3o.gif">
+<img src="https://github.com/gustavocostaads/dtmoney/blob/main/grava%C3%A7%C3%A3o.gif"> <br>
   
-<br> 
-  
-<br>
+Minha reação para esse curso <br>
+<img src="https://media3.giphy.com/media/aksKSrEEfhgbK/giphy.gif" width="400" align="center"> <br>
+"Copiar e Colar..." <br>
       
 ## Curso Web Moderno Completo com JavaScript 2022 + Projetos
       
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
-      
-Fui para esse curso de Javascript que é muito bem recomendado. Ele é o contrário dos outros 2 cursos que fiz. Muito conceito.
-São 97 horas de curso e eu já fiz 40%, quase 40 Horas e não aprendi muita coisa. Ví centenas de comentários com pessoas com o mesmo sentimento quem o meu, de escutar escutar escutar e não entender nada.Nesse curso o professor iniciou com conceitos básicos do javascript: Estruturas de controle, Função, Objeto, Array, Node, ESNext, depois, HTML e CSS (por enquanto), em seguida vem, Ajax, Gulp, Webpack, JQuery, Bootstrap, React, VueJS, Angular 9, Banco Relacional, Banco não relacional, Express e alguns projetos. O curso é massante e torturante porque é explicado sem podermos praticar e o conteúdo é longo sobre coisas que deveriam ser simples. Somente longas 40 horas de explicação sem boa prática. Sei que o professor tem grande conhecimento mas parece que não faz o curso para o público e sim para demonstrar o seu grande conhecimento. Resumo, aprendi 10% do que vi e desisto do curso. O bom é que eu já sei o que tenho que fazer. Prática. Pretendo estudar, a partir de agora, a prática do Javascript puro.
-      
-      
+
+- 90% Teoria <br>
+- 40hs de 97hs <br>
+- Aprendi pouco <br>
+- Didática ruim <br>
+- Professor super inteligente <br>
+- Estruturas de controle, Função, Objeto, Array, Node, ESNext, depois, HTML e CSS <br>
+
 ## Projeto Flappy Bird - Curso Web Moderno
       
 Esse foi o único projeto que fiz do curso...[Jogue também... O máximo que consegui foram 8, vc consegue mais? Duvido...](https://gustavocostaads.github.io/flappybird)
