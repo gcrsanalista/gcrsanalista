@@ -2,7 +2,7 @@
   
 ## Confira meu histórico de estudos lá embaixo.:satisfied:
   
-<img src="https://media3.giphy.com/media/Vbu81VdHHL2g2KqpRK/giphy.gif" width="200" align="center">
+<img src="https://media3.giphy.com/media/Vbu81VdHHL2g2KqpRK/giphy.gif" width="300" align="center">
 </div>
 
 <br>
@@ -98,7 +98,7 @@ Minha reação para esse curso <br>
   
 Minha reação para esse curso <br>
 <img src="https://media3.giphy.com/media/5USTijryafZEQ/giphy.gif" width="400" align="center"> <br>
-"Joia (mas precisa atualizar o curso)" <br>
+"Joia" <br>
 
 ## Curso Rocketseat Ignit e discover
       
