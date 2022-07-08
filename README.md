@@ -11,8 +11,7 @@
 <a href="https://github.com/gustavocostaads">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocostaads&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"     align="center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocostaads&layout=compact&langs_count=7&theme=tokyonight" align="center"/>
- 
-</div><br>
+<br><br>
   
 <div>
 <img  align="left"  height="280" width="280" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
@@ -20,9 +19,10 @@
 </div>
   
 <div align="center">
+
    
 <a href="https://www.youtube.com/watch?v=jjOd-HvOZqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <br> <span> Canal do meu filho. Deixa o like </span>
-  
+
 
 <a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center"></a> <br> <span> gustavocostaads@gmail.com </span>
   
@@ -32,10 +32,10 @@
   
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" img align="center"> <br> <span> Kintaro_Sakamoto#0898</span>
     
-   </div>
+
     
   
-  <div align="center">
+  
     
   ![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
     
@@ -44,28 +44,27 @@
 
     
 ## Histórico de Estudos
-    
-<br><br>
+<br>    
+<br>
 Decidi fazer uma transição de carreira. Atuo na área da engenharia e arquitetura, sou técnico em edificações. Tecnologia é uma área que sempre gostei desde criança.
-<br><br>
-    
-## Início 2020 antes da pandemia
-   <br>
+<br>
+<br>    
+## Início - 2020 antes da pandemia
+<br>
 Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD
 <br>
-
-<div align="left">  
 ![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
-    <br>
+<br>
+<div align="left">  
 Resumo:
-    <br>
+<br>
 - Base em diversas áreas
-    <br>
+<br>
 - Me forçou a estudar coisas que eu não estudaria sozinho, ex: Redes e Consultoria (que achei muito proveitoso).
-    <br>
+<br>
 - Network enorme
-    <br>
- </div>   
+<br>
+</div>   
    
 ## Gostei de Front End
     
