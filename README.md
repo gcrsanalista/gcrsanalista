@@ -227,8 +227,10 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
            
 [link repositório](https://github.com/gustavocostaads/pokedexKintaro) <img src="https://user-images.githubusercontent.com/85446931/164983739-e3bfcaa6-b7dd-45b5-9a2f-7f4661466897.gif"> Fiz uma pokedex e fiquei feliz por ter conseguido resolver um problema de link quebrado para as imagens que existia desde 2021.Desenvolvi uma lógica que não existia nos comentários. Veja: <img src="https://user-images.githubusercontent.com/85446931/164983858-078fb729-e5ed-4c18-9a8c-52a77359af3d.png"> <br>  <br>
 
+<div align="left">
 - Teoria com exemplos práticos <br>
 - Boa didática <br>
+</div>
   
 Minha reação para esse curso <br>
 <img src="https://media3.giphy.com/media/kOCftLxBJCRCU/giphy.gif" width="400" align="center"> <br>
