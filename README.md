@@ -113,7 +113,7 @@ Minha reação para esse curso <br>
 - **Pedi reembolso** <br>
 </div>
   
-## Estrutura inicial react para app do zero - Curso Ignit - Rocketseat - Trilha React
+## Projeto 0 - Estrutura inicial react para app do zero - Curso Ignit - Rocketseat - Trilha React
 Instalando todos os pacotes 1 a 1 e configurando webpack, babel entre outras configurações.
   
 "Package.json
@@ -185,13 +185,15 @@ Minha reação para esse curso <br>
       
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
 
+<div align="left">
 - 90% Teoria <br>
 - 40hs de 97hs <br>
 - Aprendi pouco <br>
 - Didática ruim <br>
 - Professor super inteligente <br>
 - Estruturas de controle, Função, Objeto, Array, Node, ESNext, depois, HTML e CSS <br>
-
+</div>
+  
 ## Projeto Flappy Bird - Curso Web Moderno
       
 Esse foi o único projeto que fiz do curso...[Jogue também... O máximo que consegui foram 8, vc consegue mais? Duvido...](https://gustavocostaads.github.io/flappybird)
@@ -212,19 +214,26 @@ Minha reação para esse curso <br>
 <img src="https://media3.giphy.com/media/K7NHFtsLG4nqU/giphy.gif" width="400" align="center"> <br>
 "40 hs de teoria!!! Meus olhos ardem! haaaaa!!!!" <br>
   
-## Vou para o Youtube...
+## Preciso de Javascript Puro...
       
 ## Canal Roger Melo
       
-Buscando novas alternativas de aprendizado de Javascript Puro, me deparei com um canal no youtube. [Roger Melo](https://www.youtube.com/c/RogerMelo/videos) Tenho gostado muito do conteúdo e tem me ajudado.
+Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
 <img src=https://user-images.githubusercontent.com/85446931/164982023-4c025e6f-f888-42f9-ad87-18980a20de0f.png>
   
 <br>
   
 ## Projeto Pokedex - Canal Roger Melo
            
-[link repositório](https://github.com/gustavocostaads/pokedexKintaro) <img src="https://user-images.githubusercontent.com/85446931/164983739-e3bfcaa6-b7dd-45b5-9a2f-7f4661466897.gif"> Fiz uma pokedex e fiquei feliz por ter conseguido resolver um problema de link quebrado para as imagens que existia desde 2021.Desenvolvi uma lógica que não existia nos comentários. Veja: <img src="https://user-images.githubusercontent.com/85446931/164983858-078fb729-e5ed-4c18-9a8c-52a77359af3d.png">
-          
+[link repositório](https://github.com/gustavocostaads/pokedexKintaro) <img src="https://user-images.githubusercontent.com/85446931/164983739-e3bfcaa6-b7dd-45b5-9a2f-7f4661466897.gif"> Fiz uma pokedex e fiquei feliz por ter conseguido resolver um problema de link quebrado para as imagens que existia desde 2021.Desenvolvi uma lógica que não existia nos comentários. Veja: <img src="https://user-images.githubusercontent.com/85446931/164983858-078fb729-e5ed-4c18-9a8c-52a77359af3d.png"> <br>  <br>
+
+- Teoria com exemplos práticos <br>
+- Boa didática <br>
+  
+Minha reação para esse curso <br>
+<img src="https://media3.giphy.com/media/kOCftLxBJCRCU/giphy.gif" width="400" align="center"> <br>
+"Estou começando a enxergar" <br>
+  
 
           
 </div>
