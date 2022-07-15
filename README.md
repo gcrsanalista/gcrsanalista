@@ -261,7 +261,7 @@ Fiz uma longa pesquisa, com testes, sobre ferramentas de auxílio ao desenvolvim
 </div>
 
 ## :red_square::red_square::red_square::red_square::red_square:Importante:red_square::red_square::red_square::red_square::red_square:
-##### A cada solução, pesquisei **PROFUNDAMENTE** cada método e busquei entender 100% do que aconteceu, estudando documentação, foruns, vídeos, etc. Além de estudar todas as melhores respostas dos outros integrantes a fundo. <br>
+##### A cada solução, pesquisei :red_square:PROFUNDAMENTE:red_square: cada método e busquei entender 100% do que aconteceu, estudando documentação, foruns, vídeos, etc. Além de estudar todas as melhores respostas dos outros integrantes a fundo. <br> <br>
 
 ![codewars1](https://user-images.githubusercontent.com/85446931/179319243-8295125b-3e12-40fb-a206-8280118021c4.png) <br>
   1 <br>
@@ -308,10 +308,13 @@ Fiz uma longa pesquisa, com testes, sobre ferramentas de auxílio ao desenvolvim
 ![codewars22](https://user-images.githubusercontent.com/85446931/179319279-e408c5db-7c8e-40b1-bee7-4107e577f186.png) <br>
   22 <br>
 ![codewars23](https://user-images.githubusercontent.com/85446931/179319281-98a873d6-2718-42b6-a4d6-de8a3cc1229a.png) <br>
-  23 <br>
+  23 <br> <br>
   
-  
-  
+:blue_square:Minha reação para esse curso:blue_square: <br>
+<img src="https://media3.giphy.com/media/s8JbnmPr0C2nS/giphy.gif" width="400" align="center"> <br>
+:blue_square:"Estou mais confiante":blue_square: <br>
+
+
 </div>
           
 
