@@ -240,7 +240,74 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
 :blue_square:"Estou começando a enxergar":blue_square: <br>
   
 
-          
+
+
+  
+## :red_square::red_square::red_square::red_square::red_square:Aprofundando em Javascript Puro:red_square::red_square::red_square::red_square::red_square:
+      
+## Codewars
+      
+Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
+  
+Fiz uma longa pesquisa, com testes, sobre ferramentas de auxílio ao desenvolvimento de linguagens e essa foi a mais adequada pra mim no momento. Ela nos obriga a pesquisar a documentação para entender o sentido das melhores respostas. Foi onde eu mais aprendi sobre Javascript.
+  
+![codewars](https://user-images.githubusercontent.com/85446931/179319240-8ba0d233-d917-410f-a4e4-9d4027ec67a1.png) <br>
+
+- Existem 8 níveis, estou no 7º ( 7º Kyu) <br>
+- A dificuldade das soluções são de rank 8 ao 1 (Kata) <br> <br>
+
+## :red_square::red_square::red_square::red_square::red_square:Importante:red_square::red_square::red_square::red_square::red_square:
+##### A cada solução, pesquisei **PROFUNDAMENTE** cada método e busquei entender 100% do que aconteceu, estudando documentação, foruns, vídeos, etc. Além de estudar todas as melhores respostas dos outros integrantes a fundo. <br>
+
+![codewars1](https://user-images.githubusercontent.com/85446931/179319243-8295125b-3e12-40fb-a206-8280118021c4.png) <br>
+  1 <br>
+![codewars2](https://user-images.githubusercontent.com/85446931/179319244-70a2e20a-8d08-4390-a246-f7691c05171e.png) <br>
+  2 <br>
+![codewars3](https://user-images.githubusercontent.com/85446931/179319246-513c19e5-130d-4814-b97d-a7c000828634.png) <br>
+  3 <br>
+![codewars4](https://user-images.githubusercontent.com/85446931/179319247-4966e224-0dee-4cbf-a17c-e29ed7dc0315.png) <br>
+  4 <br>
+![codewars5](https://user-images.githubusercontent.com/85446931/179319248-339edcea-99bf-4989-bf99-06af9fc78d3f.png) <br>
+  5 <br>
+![codewars6](https://user-images.githubusercontent.com/85446931/179319249-345567e2-854b-4c3f-bf05-d2eae2e4a8b6.png) <br>
+  6 <br>
+![codewars7](https://user-images.githubusercontent.com/85446931/179319251-8b3241ac-87c5-4e3a-bc8a-f21601f5b950.png) <br>
+  7 <br>
+![codewars8](https://user-images.githubusercontent.com/85446931/179319254-4eef0881-92c5-40c5-9ecf-11fb4a66e884.png) <br>
+  8 <br>
+![codewars9](https://user-images.githubusercontent.com/85446931/179319257-0fcce1ab-e8f8-4af4-bcdb-d5daf7736368.png) <br>
+  9 <br>
+![codewars10](https://user-images.githubusercontent.com/85446931/179319261-758b6df6-9c35-4a6a-aafa-ad3f544274d9.png) <br>
+  10 <br>
+![codewars11](https://user-images.githubusercontent.com/85446931/179319263-7f847188-811f-4a16-879e-ed26b50f08c8.png) <br>
+  11 <br>
+![codewars12](https://user-images.githubusercontent.com/85446931/179319264-0e1106b1-8912-40da-8893-738166bb92e6.png) <br>
+  12 <br>
+![codewars13](https://user-images.githubusercontent.com/85446931/179319265-cb11a45b-05b9-47c0-b635-cd486e6a251e.png) <br>
+  13 <br>
+![codewars14](https://user-images.githubusercontent.com/85446931/179319267-aec8d711-4f29-439f-a243-bb096f310393.png) <br>
+  14 <br>
+![codewars15](https://user-images.githubusercontent.com/85446931/179319268-b16bc462-5860-4c21-8485-b6637aa9305b.png) <br>
+  15 <br>
+![codewars16](https://user-images.githubusercontent.com/85446931/179319270-3255e279-6f41-4183-a68e-c7337fa17345.png) <br>
+  16 <br>
+![codewars17](https://user-images.githubusercontent.com/85446931/179319271-db0b64bf-9cc5-4be6-ad75-aa0e8d801569.png) <br>
+  17 <br>
+![codewars18](https://user-images.githubusercontent.com/85446931/179319272-a2d91107-9e5b-40c0-b512-380e222aaa37.png) <br>
+  18 <br>
+![codewars19](https://user-images.githubusercontent.com/85446931/179319273-ab11d05e-081f-4c9c-9795-6e8dfdeb029f.png) <br>
+  19 <br>
+![codewars20](https://user-images.githubusercontent.com/85446931/179319274-7afdf2d7-ac72-49d7-8b61-cd55228d7454.png) <br>
+  20 <br>
+![codewars21](https://user-images.githubusercontent.com/85446931/179319276-ee821797-7ee4-4283-a412-d4cec2ac79a1.png) <br>
+  21 <br>
+![codewars22](https://user-images.githubusercontent.com/85446931/179319279-e408c5db-7c8e-40b1-bee7-4107e577f186.png) <br>
+  22 <br>
+![codewars23](https://user-images.githubusercontent.com/85446931/179319281-98a873d6-2718-42b6-a4d6-de8a3cc1229a.png) <br>
+  23 <br>
+  
+  
+  
 </div>
           
 
