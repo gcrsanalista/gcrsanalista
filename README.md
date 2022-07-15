@@ -253,8 +253,12 @@ Fiz uma longa pesquisa, com testes, sobre ferramentas de auxílio ao desenvolvim
   
 ![codewars](https://user-images.githubusercontent.com/85446931/179319240-8ba0d233-d917-410f-a4e4-9d4027ec67a1.png) <br>
 
+<div align="left">  
+  
 - Existem 8 níveis, estou no 7º ( 7º Kyu) <br>
 - A dificuldade das soluções são de rank 8 ao 1 (Kata) <br> <br>
+  
+</div>
 
 ## :red_square::red_square::red_square::red_square::red_square:Importante:red_square::red_square::red_square::red_square::red_square:
 ##### A cada solução, pesquisei **PROFUNDAMENTE** cada método e busquei entender 100% do que aconteceu, estudando documentação, foruns, vídeos, etc. Além de estudar todas as melhores respostas dos outros integrantes a fundo. <br>
