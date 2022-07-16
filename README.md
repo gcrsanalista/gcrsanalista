@@ -385,12 +385,29 @@ Sites de auxílio: <br>
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/HeDeZLWsMMew8/giphy.gif" width="400" align="center"> <br>
 :blue_square:"aprendi que o programador não é um decorador de códigos, mas um solucionador de problemas... Mas foi bom":blue_square: <br>
+  
+## :red_square::red_square::red_square::red_square::red_square:Revisão:red_square::red_square::red_square::red_square::red_square:
+![2](https://user-images.githubusercontent.com/85446931/179371410-c3c6727e-1925-4407-bdec-75dc3ca57526.png) <br>
+![1](https://user-images.githubusercontent.com/85446931/179371309-b534ac9b-1640-4fad-9622-67b121d4f2d4.png) <br>
+## Projeto - Aula 54 - Somente Javascript
+![2022-07-16-17-34-18](https://user-images.githubusercontent.com/85446931/179371310-00a281f7-cf52-4c2c-9333-95e98a782ac1.gif) <br> <br>
+  
+  <div align="left"> 
+  
+- 54 aulas Objetivas <br>
+- Didática nota 10 <br> <br>
+  
+  </div>
+  
+:blue_square:Minha reação para esse curso:blue_square: <br>
+<img src="https://media3.giphy.com/media/aY1HMl4E1Ju1y/giphy.gif" width="400" align="center"> <br>
+:blue_square:"Muito bom kkk":blue_square: <br>
 
 ## :red_square::red_square::red_square::red_square::red_square:Hora dos Frameworks:red_square::red_square::red_square::red_square::red_square:
       
 ## Pós Graduação Front-End - XP Educação (antiga IGTI)
   
-  :red_square:Meu diploma de superior chegou:red_square: então senti que é o momento de entrar em frameworks, React, Angular, Vue e continuar meus estudos com esse super curso <br> <br>
+:red_square:Meu diploma de superior chegou:red_square: então senti que é o momento de entrar em frameworks, React, Angular, Vue e continuar meus estudos com esse super curso <br> <br>
   
 ![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png) <br>
   
