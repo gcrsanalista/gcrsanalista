@@ -368,14 +368,17 @@ Fiz uma longa pesquisa, com testes, sobre ferramentas de auxílio ao desenvolvim
       
 ## Pós Graduação Front-End - XP Educação (antiga IGTI)
   
-  **Meu diploma de superior chegou** então senti que é o momento de entrar em frameworks, React, Angular, Vue e continuar meus estudos com esse super curso
+  **Meu diploma de superior chegou** então senti que é o momento de entrar em frameworks, React, Angular, Vue e continuar meus estudos com esse super curso <br> <br>
   
-![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png)
+![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png) <br>
   
-  Andamento... Qual será minha reação para esse curso?
+  Qual será minha reação para esse curso? <br>
   
-  Por enquanto, é essa
+  Por enquanto, é essa <br>
+   
+  <img src="https://media3.giphy.com/media/SJXzadwbexJEAZ9S1B/giphy.gif" width="400" align="center"> <br>
   
+  Continua...
   
 </div>
           
