@@ -379,9 +379,7 @@ Sites de auxílio: <br>
 - Bom para consultas <br>
 - Bom para fixação <br>
 - Lento <br>
-- Valeu a experiência mas não é o melhor método de estudo para programação <br>
-- Posso consultar livros e internet em vez do meu caderno <br> <br>
-  
+
 </div>
   
 :blue_square:Minha reação para esse curso:blue_square: <br>
