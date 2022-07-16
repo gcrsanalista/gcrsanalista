@@ -354,7 +354,7 @@ Fiz uma longa pesquisa, com testes, sobre ferramentas de auxílio ao desenvolvim
   
 - Bom para consultas <br>
 - Bom para fixação <br>
-- Lento e desnecessário, aprendi que o programador não é um decorador de códigos, mas um solucionador de problemas <br>
+- Lento <br>
 - Valeu a experiência mas não é o melhor método de estudo para programação <br>
 - Posso consultar livros e internet em vez do meu caderno <br> <br>
   
@@ -362,8 +362,20 @@ Fiz uma longa pesquisa, com testes, sobre ferramentas de auxílio ao desenvolvim
   
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/HeDeZLWsMMew8/giphy.gif" width="400" align="center"> <br>
-:blue_square:"aprendi que o programador não é um decorador de códigos, mas um solucionador de problemas":blue_square: <br>
+:blue_square:"aprendi que o programador não é um decorador de códigos, mas um solucionador de problemas... Mas foi bom":blue_square: <br>
 
+## :red_square::red_square::red_square::red_square::red_square:Hora dos Frameworks:red_square::red_square::red_square::red_square::red_square:
+      
+## Pós Graduação Front-End - XP Educação (antiga IGTI)
+  
+  **Meu diploma de superior chegou** então senti que é o momento de entrar em frameworks, React, Angular, Vue e continuar meus estudos com esse super curso
+  
+![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png)
+  
+  Andamento... Qual será minha reação para esse curso?
+  
+  Por enquanto, é essa
+  
   
 </div>
           
