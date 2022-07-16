@@ -102,9 +102,11 @@ Resumo: <br>
 <img src="https://media3.giphy.com/media/5USTijryafZEQ/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Joia":blue_square: <br>
   
-### Motivacional = Fabio Akita me chamando de só mais um...
+## 
+<br> <br> <br> <br> <br> <br>
+### Motivacional <br>
 ![fabioakita](https://user-images.githubusercontent.com/85446931/179328428-c256be2b-d300-4c1b-a36d-8e8dbcf2f9ce.png) <br>
-<a ref="https://www.youtube.com/watch?v=V7oUDL7E1g4&t=99s">Link</a> <br> <br>
+<a href="https://www.youtube.com/watch?v=V7oUDL7E1g4&t=99s">Link</a> <br> <br> <br> <br> <br> <br> <br> <br>
   
 ## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais profissional...:red_square::red_square::red_square::red_square::red_square:
   
@@ -188,10 +190,12 @@ Primeiro projeto em typescript / React, curso Rocketseat - Ignit - Trilha React 
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/aksKSrEEfhgbK/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Copiar e Colar...":blue_square: <br>
-      
-### Motivacional = Fabio Akita me zuando...
+
+## 
+<br> <br> <br> <br> <br> <br>
+### Motivacional <br>  
 ![fabioakita2](https://user-images.githubusercontent.com/85446931/179328429-ef38620b-1737-458c-9119-2bb746d27f9a.png) <br>
-<a ref="https://youtu.be/V7oUDL7E1g4">Link</a> <br> <br>
+<a href="https://youtu.be/V7oUDL7E1g4">Link</a> <br> <br> <br> <br> <br> <br> <br> <br>
   
 ## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais barato - Udemy...:red_square::red_square::red_square::red_square::red_square:
 ## Curso Web Moderno Completo com JavaScript 2022 + Projetos
@@ -327,9 +331,11 @@ Sites de auxílio: <br>
 <img src="https://media3.giphy.com/media/s8JbnmPr0C2nS/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Estou mais confiante":blue_square: <br>
   
-### Motivacional = Fabio Akita me animando, só que ao contrário...
+## 
+<br> <br> <br> <br> <br> <br>
+### Motivacional <br>  
 ![fabioakita3](https://user-images.githubusercontent.com/85446931/179328431-c2c06a52-1c18-4a17-ae9a-cd906076b1be.png) <br>
-<a ref="https://youtu.be/oUPaJxk6TZ0">Link</a> <br> <br>
+<a href="https://youtu.be/oUPaJxk6TZ0">Link</a> <br> <br> <br> <br> <br> <br> <br> <br>
   
 ## :red_square::red_square::red_square::red_square::red_square:Escrevendo:red_square::red_square::red_square::red_square::red_square:
       
