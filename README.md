@@ -265,11 +265,13 @@ Fiz uma longa pesquisa, com testes, sobre ferramentas de auxílio ao desenvolvim
 ![codewars2](https://user-images.githubusercontent.com/85446931/179319244-70a2e20a-8d08-4390-a246-f7691c05171e.png) <br>
   2 <br>
 ![codewars3](https://user-images.githubusercontent.com/85446931/179319246-513c19e5-130d-4814-b97d-a7c000828634.png) <br>
-  3 Estudei Regex demais <br> <br>
-  Sites de auxílio: <br>
-![regex1](https://regex101.com/) <br>
-![regex2](https://www.regexpal.com/) <br>
-![regex3](https://regexr.com/) <br> <br>
+  3 <br>
+Estudei Regex demais <br> <br>
+  
+Sites de auxílio: <br>
+[regex1](https://regex101.com/) <br>
+[regex2](https://www.regexpal.com/) <br>
+[regex3](https://regexr.com/) <br> <br>
 ![codewars4](https://user-images.githubusercontent.com/85446931/179319247-4966e224-0dee-4cbf-a17c-e29ed7dc0315.png) <br>
   4 <br>
 ![codewars5](https://user-images.githubusercontent.com/85446931/179319248-339edcea-99bf-4989-bf99-06af9fc78d3f.png) <br>
