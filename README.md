@@ -274,7 +274,7 @@ Fiz uma longa pesquisa, com testes, sobre ferramentas de auxílio ao desenvolvim
 </div>
 
 ## :red_square::red_square::red_square::red_square::red_square:Importante:red_square::red_square::red_square::red_square::red_square:
-##### A cada solução, pesquisei :red_square:PROFUNDAMENTE:red_square: cada método e busquei entender 100% do que aconteceu, estudando documentação, foruns, vídeos, etc. Além de estudar as 5 melhores respostas dos outros integrantes a fundo. <br> <br>
+A cada solução, pesquisei :red_square:PROFUNDAMENTE:red_square: cada método e busquei entender 100% do que aconteceu, estudando documentação, foruns, vídeos, etc. Além de estudar as 5 melhores respostas dos outros integrantes a fundo. <br> <br>
 
 ![codewars1](https://user-images.githubusercontent.com/85446931/179319243-8295125b-3e12-40fb-a206-8280118021c4.png) <br>
   1 <br>
