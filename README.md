@@ -34,7 +34,9 @@
 
   
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" img align="center"> <br> <span> Kintaro_Sakamoto#0898</span>
-    
+  
+<a href="https://www.codewars.com/users/KintaroSakamoto" ><img src="https://user-images.githubusercontent.com/85446931/179327512-937d33e4-a78b-4be4-b911-e571e03c080b.png" img align="center" width="120" >https://www.codewars.com/users/KintaroSakamoto </a> <br> <span> </span>
+   
  
 ![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
      
