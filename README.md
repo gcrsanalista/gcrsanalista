@@ -41,6 +41,8 @@
    
  
 ![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
+  
+
      
 ## :red_square::red_square::red_square::red_square::red_square:Histórico de Estudos:red_square::red_square::red_square::red_square::red_square:
 Decidi fazer uma transição de carreira. Atuo na área da engenharia e arquitetura, sou técnico em edificações. Tecnologia é uma área que sempre gostei desde criança.
@@ -67,7 +69,9 @@ Resumo: <br>
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/d1E2VyhFsxawRbeo/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Networking - Um por todos e todos por um":blue_square: <br>
-   
+
+  <br><br><br><br><br><br><br><br><br>
+  
 ## :red_square::red_square::red_square::red_square::red_square:Seguindo com Front-End...:red_square::red_square::red_square::red_square::red_square:
 
 ## Curso DankiCode
@@ -233,6 +237,8 @@ Eu não entendi quase nada desse jogo, infelizmente foi copiar e colar e a expli
 <img src="https://media3.giphy.com/media/K7NHFtsLG4nqU/giphy.gif" width="400" align="center"> <br>
 :blue_square:"40 hs de teoria!!! Meus olhos ardem! haaaaa!!!!":blue_square: <br>
   
+<br><br><br><br><br><br><br><br><br>
+  
 ## :red_square::red_square::red_square::red_square::red_square:Preciso de Javascript Puro...:red_square::red_square::red_square::red_square::red_square:
       
 ## Canal Roger Melo
@@ -255,7 +261,8 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
 <img src="https://media3.giphy.com/media/kOCftLxBJCRCU/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Estou começando a enxergar":blue_square: <br>
   
-
+<br><br><br><br><br><br><br><br><br>
+  
 ## :red_square::red_square::red_square::red_square::red_square:Aprofundando em Javascript Puro:red_square::red_square::red_square::red_square::red_square:
       
 ## Codewars
@@ -386,6 +393,8 @@ Sites de auxílio: <br>
 <img src="https://media3.giphy.com/media/HeDeZLWsMMew8/giphy.gif" width="400" align="center"> <br>
 :blue_square:"aprendi que o programador não é um decorador de códigos, mas um solucionador de problemas... Mas foi bom":blue_square: <br>
   
+<br><br><br><br><br><br><br><br><br>
+  
 ## :red_square::red_square::red_square::red_square::red_square:Revisão:red_square::red_square::red_square::red_square::red_square:
 ![2](https://user-images.githubusercontent.com/85446931/179371410-c3c6727e-1925-4407-bdec-75dc3ca57526.png) <br>
 ![1](https://user-images.githubusercontent.com/85446931/179371309-b534ac9b-1640-4fad-9622-67b121d4f2d4.png) <br>
@@ -402,6 +411,8 @@ Sites de auxílio: <br>
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/aY1HMl4E1Ju1y/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Muito bom kkk":blue_square: <br>
+  
+<br><br><br><br><br><br><br><br><br>
 
 ## :red_square::red_square::red_square::red_square::red_square:Hora dos Frameworks:red_square::red_square::red_square::red_square::red_square:
       
