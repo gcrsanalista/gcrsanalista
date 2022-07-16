@@ -106,7 +106,7 @@ Resumo: <br>
 <br> <br> <br> <br> <br> <br>
 ### Motivacional <br>
 ![fabioakita](https://user-images.githubusercontent.com/85446931/179328428-c256be2b-d300-4c1b-a36d-8e8dbcf2f9ce.png) <br>
-<a href="https://www.youtube.com/watch?v=V7oUDL7E1g4&t=99s">Link</a> <br> <br> <br> <br> <br> <br> <br> <br>
+<a href="https://youtu.be/V7oUDL7E1g4">Link</a> <br> <br> <br> <br> <br> <br> <br> <br>
   
 ## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais profissional...:red_square::red_square::red_square::red_square::red_square:
   
