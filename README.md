@@ -1,6 +1,6 @@
 <div align="center"style="display: block">
   
-## :arrow_down:Confira meu histórico de estudos :arrow_down:
+## Confira meu histórico de estudos
   
 <img src="https://media3.giphy.com/media/Vbu81VdHHL2g2KqpRK/giphy.gif" width="200" align="center">
 </div>
