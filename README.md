@@ -68,7 +68,7 @@ Resumo: <br>
   
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/d1E2VyhFsxawRbeo/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Networking - Um por todos e todos por um":blue_square: <br>
+:blue_square:"Networking":blue_square: <br>
 
   <br><br><br><br><br><br><br><br><br>
   
