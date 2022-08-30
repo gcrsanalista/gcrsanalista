@@ -59,7 +59,7 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 <br>
   
 
-Resumo: <br>
+
 - Me forçou a estudar coisas que eu não estudaria sozinho, ex: Redes e Consultoria (que achei muito proveitoso). <br>
 
 <br>
@@ -271,8 +271,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 ## Pós Graduação Front-End - XP Educação (antiga IGTI)
   
 ![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png) <br>
-  
-  Qual será minha reação para esse curso? <br>
+
    
   <img src="https://media3.giphy.com/media/SJXzadwbexJEAZ9S1B/giphy.gif" width="400" align="center"> <br>
   
