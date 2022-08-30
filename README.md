@@ -78,35 +78,10 @@ Resumo: <br>
 ![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png) <br>
 <div align="left">
 - 42% do curso <br>
-- Html <br>
-- CSS <br>
-- Javascript (pouco) <br>
-- 90% prático <br>
-- Falta atualizar o curso <br>
-- Até que é um bom curso para iniciantes <br>
-- Professor se perde no meio da aula rsrs <br>
-</div>
-  
-## Site 01 - Curso DankiCode
-
-<a href="https://github.com/gustavocostaads/dankicode-projeto-01">Link do Repositório</a> <br> <br>
-  
-  
-<img src="https://github.com/gustavocostaads/dankicode-projeto-01/blob/main/Imagens/Projeto01.png"> <br> <br>
-
-## Site 02 - Curso Dankicode
-<a href="https://github.com/gustavocostaads/dankicode-projeto-02">Link do Repositório</a>  <br> <br>
-
-<img src="https://github.com/gustavocostaads/dankicode-projeto-02/blob/main/Imagens/projeto02-01aa.png"> <br> <br>
-
-## Site 03 - Curso Dankicode
-<a href="https://github.com/gcrsanalista/dankicode-projeto-03">Link do Repositório</a> <br> <br>
- 
-<img src="https://github.com/gcrsanalista/dankicode-projeto-03/blob/main/imagens/projeto03-01.png"> <br> <br>
   
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/5USTijryafZEQ/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Joia":blue_square: <br>
+:blue_square:"Treinei HTML e CSS":blue_square: <br>
   
 ## 
 <br> <br> <br> <br> <br> <br>
@@ -121,81 +96,13 @@ Resumo: <br>
 ![rocketseat](https://user-images.githubusercontent.com/85446931/162638662-0c99b7d7-9d1f-4fa9-8c56-41cbfb57fb98.png)<br>
   
 <div align="left">
-- 100% prático <br>
-- Não explica nada, 0% teórico<br>
-- Aprendi a corrigir erros, intermináveis erros (isso foi bom) <br>
-- Typescript <br>
-- React <br>
-- **Pedi reembolso** <br>
+- 10% do curso
+
 </div>
-  
-## Projeto 0 - Estrutura inicial react para app do zero - Curso Ignit - Rocketseat - Trilha React
-Instalando todos os pacotes 1 a 1 e configurando webpack, babel entre outras configurações.
-  
-"Package.json
-{
-"name": "01-github-explorer",
-"version": "1.0.0",
-"main": "index.js",
-"license": "MIT",
-"scripts": {
-"dev": "webpack serve",
-"build": "cross-env NODE_ENV=production webpack"
-},
-"dependencies": {
-"@types/react": "^17.0.38",
-"react": "^17.0.2",
-"react-dom": "^17.0.2"
-},
-"devDependencies": {
-"@babel/cli": "^7.16.8",
-"@babel/core": "^7.16.7",
-"@babel/preset-env": "^7.16.8",
-"@babel/preset-react": "^7.16.7",
-"@babel/preset-typescript": "^7.16.7",
-"@pmmmwh/react-refresh-webpack-plugin": "^0.5.4",
-"@types/react-dom": "^17.0.11",
-"babel-loader": "^8.2.3",
-"cross-env": "^7.0.3",
-"css-loader": "^6.5.1",
-"html-webpack-plugin": "^5.5.0",
-"node-sass": "^7.0.1",
-"react-refresh": "^0.11.0",
-"sass-loader": "^12.4.0",
-"style-loader": "^3.3.1",
-"typescript": "^4.5.5",
- "webpack": "^5.66.0",
-"webpack-cli": "^4.9.1",
-"webpack-dev-server": "^4.7.3""
-}
-}
     
-[Link do Repositório](https://github.com/gustavocostaads/Rocketseat-01-github-explorer)
-  
-<br>
-
-<br>
-  
-<img src="https://github.com/gustavocostaads/Rocketseat-01-github-explorer/blob/main/2022-01-28-12-09-16.gif">
-  
-<br>
-
-<br>
-
-## 1º projeto Curso Rocketseat
-Primeiro projeto em typescript / React, curso Rocketseat - Ignit - Trilha React - Segundo Capítulo
-  
-<a href="https://github.com/gustavocostaads/dtmoney">Link do Repositório</a>
-  
-<br> 
-  
-<br>
-  
-<img src="https://github.com/gustavocostaads/dtmoney/blob/main/grava%C3%A7%C3%A3o.gif"> <br>
-  
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/aksKSrEEfhgbK/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Copiar e Colar...":blue_square: <br>
+:blue_square:"muito avançado pra mim no momento, **Pedi reembolso**":blue_square: <br>
 
 ## 
 <br> <br> <br> <br> <br> <br>
@@ -209,12 +116,7 @@ Primeiro projeto em typescript / React, curso Rocketseat - Ignit - Trilha React 
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
 
 <div align="left">
-- 90% Teoria <br>
 - 40hs de 97hs <br>
-- Aprendi pouco <br>
-- Didática ruim <br>
-- Professor super inteligente <br>
-- Estruturas de controle, Função, Objeto, Array, Node, ESNext, depois, HTML e CSS <br>
 </div>
   
 ## Projeto Flappy Bird - Curso Web Moderno
@@ -250,16 +152,15 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
   
 ## Projeto Pokedex - Canal Roger Melo
            
-[link repositório](https://github.com/gustavocostaads/pokedexKintaro) <img src="https://user-images.githubusercontent.com/85446931/164983739-e3bfcaa6-b7dd-45b5-9a2f-7f4661466897.gif"> Fiz uma pokedex e fiquei feliz por ter conseguido resolver um problema de link quebrado para as imagens que existia desde 2021.Desenvolvi uma lógica que não existia nos comentários. Veja: <img src="https://user-images.githubusercontent.com/85446931/164983858-078fb729-e5ed-4c18-9a8c-52a77359af3d.png"> <br>  <br>
+[link repositório](https://github.com/gustavocostaads/pokedexKintaro) <img src="https://user-images.githubusercontent.com/85446931/164983739-e3bfcaa6-b7dd-45b5-9a2f-7f4661466897.gif"><br>  <br>
 
 <div align="left">
-- Teoria com exemplos práticos <br>
-- Boa didática <br>
+
 </div>
   
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/kOCftLxBJCRCU/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Estou começando a enxergar":blue_square: <br>
+:blue_square:"Boa didática":blue_square: <br>
   
 <br><br><br><br><br><br><br><br><br>
   
@@ -269,15 +170,11 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
       
 Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
   
-Fiz uma longa pesquisa, com testes, sobre ferramentas de auxílio ao desenvolvimento de linguagens e essa foi a mais adequada pra mim no momento. Ela nos obriga a pesquisar a documentação para entender o sentido das melhores respostas. Foi onde eu mais aprendi sobre Javascript.
-  
 ![codewars](https://user-images.githubusercontent.com/85446931/179319240-8ba0d233-d917-410f-a4e4-9d4027ec67a1.png) <br>
 
 <div align="left">  
   
-- Existem 8 níveis, estou no 7º ( 7º Kyu) <br>
-- A dificuldade das soluções são de rank 8 ao 1 (Kata) <br> <br>
-  
+- Fiz 23 desafios básicos de Javascrip puro, aprendi bastante
 </div>
 
 ## :red_square::red_square::red_square::red_square::red_square:Importante:red_square::red_square::red_square::red_square::red_square:
@@ -338,7 +235,7 @@ Sites de auxílio: <br>
   
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/s8JbnmPr0C2nS/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Estou mais confiante":blue_square: <br>
+:blue_square:"Javascript Puro":blue_square: <br>
   
 ## 
 <br> <br> <br> <br> <br> <br>
@@ -383,15 +280,13 @@ Sites de auxílio: <br>
   
 <div align="left">  
   
-- Bom para consultas <br>
-- Bom para fixação <br>
-- Lento <br>
+- Achei lento 
 
 </div>
   
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/HeDeZLWsMMew8/giphy.gif" width="400" align="center"> <br>
-:blue_square:"aprendi que o programador não é um decorador de códigos, mas um solucionador de problemas... Mas foi bom":blue_square: <br>
+:blue_square:"Melhor ir para o pc":blue_square: <br>
   
 <br><br><br><br><br><br><br><br><br>
   
@@ -410,7 +305,7 @@ Sites de auxílio: <br>
   
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/aY1HMl4E1Ju1y/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Muito bom kkk":blue_square: <br>
+:blue_square:"Muito bom":blue_square: <br>
   
 <br><br><br><br><br><br><br><br><br>
 
