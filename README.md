@@ -94,7 +94,6 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 :blue_square:"muito avançado pra mim no momento, **Pedi reembolso**":blue_square: <br>
   
 ## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais barato - Udemy...:red_square::red_square::red_square::red_square::red_square:
-## Curso Web Moderno Completo com JavaScript 2022 + Projetos
       
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
 
@@ -120,7 +119,7 @@ Eu não entendi quase nada desse jogo, infelizmente foi copiar e colar e a expli
   
 
 <img src="https://media3.giphy.com/media/K7NHFtsLG4nqU/giphy.gif" width="400" align="center"> <br>
-:blue_square:"40 hs de teoria!!! Meus olhos ardem! haaaaa!!!!":blue_square: <br>
+:blue_square:"40 hs de teoria! Não foi proveitoso":blue_square: <br>
   
 <br>
   
