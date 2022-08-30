@@ -83,8 +83,7 @@ Resumo: <br>
 
   
 ## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais profissional...:red_square::red_square::red_square::red_square::red_square:
-  
-## Curso Rocketseat Ignit e discover
+ 
       
 ![rocketseat](https://user-images.githubusercontent.com/85446931/162638662-0c99b7d7-9d1f-4fa9-8c56-41cbfb57fb98.png)<br>
   
