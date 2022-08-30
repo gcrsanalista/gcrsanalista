@@ -76,18 +76,13 @@ Resumo: <br>
 
 ## Curso DankiCode
 ![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png) <br>
-<div align="left">
+
 - 42% do curso <br>
   
-:blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/5USTijryafZEQ/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Treinei HTML e CSS":blue_square: <br>
-  
-## 
-<br> <br> <br> <br> <br> <br>
-### Motivacional <br>
-![fabioakita](https://user-images.githubusercontent.com/85446931/179328428-c256be2b-d300-4c1b-a36d-8e8dbcf2f9ce.png) <br>
-<a href="https://youtu.be/V7oUDL7E1g4">Link</a> <br> <br> <br> <br> <br> <br> <br> <br>
+</div>
+
   
 ## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais profissional...:red_square::red_square::red_square::red_square::red_square:
   
@@ -100,15 +95,9 @@ Resumo: <br>
 
 </div>
     
-:blue_square:Minha reação para esse curso:blue_square: <br>
+
 <img src="https://media3.giphy.com/media/aksKSrEEfhgbK/giphy.gif" width="400" align="center"> <br>
 :blue_square:"muito avançado pra mim no momento, **Pedi reembolso**":blue_square: <br>
-
-## 
-<br> <br> <br> <br> <br> <br>
-### Motivacional <br>  
-![fabioakita2](https://user-images.githubusercontent.com/85446931/179328429-ef38620b-1737-458c-9119-2bb746d27f9a.png) <br>
-<a href="https://youtu.be/V7oUDL7E1g4">Link</a> <br> <br> <br> <br> <br> <br> <br> <br>
   
 ## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais barato - Udemy...:red_square::red_square::red_square::red_square::red_square:
 ## Curso Web Moderno Completo com JavaScript 2022 + Projetos
@@ -236,12 +225,7 @@ Sites de auxílio: <br>
 :blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/s8JbnmPr0C2nS/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Javascript Puro":blue_square: <br>
-  
-## 
-<br> <br> <br> <br> <br> <br>
-### Motivacional <br>  
-![fabioakita3](https://user-images.githubusercontent.com/85446931/179328431-c2c06a52-1c18-4a17-ae9a-cd906076b1be.png) <br>
-<a href="https://youtu.be/oUPaJxk6TZ0">Link</a> <br> <br> <br> <br> <br> <br> <br> <br>
+ 
   
 ## :red_square::red_square::red_square::red_square::red_square:Escrevendo:red_square::red_square::red_square::red_square::red_square:
       
