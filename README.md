@@ -71,9 +71,8 @@ Resumo: <br>
 :blue_square:"Networking":blue_square: <br>
 
   
-## :red_square::red_square::red_square::red_square::red_square:Seguindo com Front-End...:red_square::red_square::red_square::red_square::red_square:
+## :red_square::red_square::red_square::red_square::red_square:Curso DankiCode Front-End...:red_square::red_square::red_square::red_square::red_square:
 
-## Curso DankiCode
 ![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png) <br>
 
 - 42% do curso <br>
