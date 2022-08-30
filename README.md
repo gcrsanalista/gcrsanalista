@@ -58,19 +58,18 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
   
 <br>
   
-<div align="left">  
+
 Resumo: <br>
-- Base em diversas áreas <br>
 - Me forçou a estudar coisas que eu não estudaria sozinho, ex: Redes e Consultoria (que achei muito proveitoso). <br>
-- Network enorme
+
 <br>
-</div>   
+<br>
+ 
   
-:blue_square:Minha reação para esse curso:blue_square: <br>
+
 <img src="https://media3.giphy.com/media/d1E2VyhFsxawRbeo/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Networking":blue_square: <br>
 
-  <br><br><br><br><br><br><br><br><br>
   
 ## :red_square::red_square::red_square::red_square::red_square:Seguindo com Front-End...:red_square::red_square::red_square::red_square::red_square:
 
@@ -124,13 +123,13 @@ Eu não entendi quase nada desse jogo, infelizmente foi copiar e colar e a expli
   
 <br> 
   
-:blue_square:Minha reação para esse curso:blue_square: <br>
+
 <img src="https://media3.giphy.com/media/K7NHFtsLG4nqU/giphy.gif" width="400" align="center"> <br>
 :blue_square:"40 hs de teoria!!! Meus olhos ardem! haaaaa!!!!":blue_square: <br>
   
-<br><br><br><br><br><br><br><br><br>
+<br>
   
-## :red_square::red_square::red_square::red_square::red_square:Preciso de Javascript Puro...:red_square::red_square::red_square::red_square::red_square:
+## :red_square::red_square::red_square::red_square::red_square:Javascript Puro...:red_square::red_square::red_square::red_square::red_square:
       
 ## Canal Roger Melo
       
@@ -151,9 +150,9 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
 <img src="https://media3.giphy.com/media/kOCftLxBJCRCU/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Boa didática":blue_square: <br>
   
-<br><br><br><br><br><br><br><br><br>
+<br>
   
-## :red_square::red_square::red_square::red_square::red_square:Aprofundando em Javascript Puro:red_square::red_square::red_square::red_square::red_square:
+## :red_square::red_square::red_square::red_square::red_square:Javascript Puro:red_square::red_square::red_square::red_square::red_square:
       
 ## Codewars
       
@@ -161,13 +160,9 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
   
 ![codewars](https://user-images.githubusercontent.com/85446931/179319240-8ba0d233-d917-410f-a4e4-9d4027ec67a1.png) <br>
 
-<div align="left">  
-  
-- Fiz 23 desafios básicos de Javascrip puro, aprendi bastante
-</div>
 
-## :red_square::red_square::red_square::red_square::red_square:Importante:red_square::red_square::red_square::red_square::red_square:
-A cada solução, pesquisei :red_square:PROFUNDAMENTE:red_square: cada método e busquei entender 100% do que aconteceu, estudando documentação, foruns, vídeos, etc. Além de estudar as 5 melhores respostas dos outros integrantes a fundo. <br> <br>
+- Fiz 23 desafios básicos de Javascrip puro, aprendi bastante
+
 
 ![codewars1](https://user-images.githubusercontent.com/85446931/179319243-8295125b-3e12-40fb-a206-8280118021c4.png) <br>
   1 <br>
@@ -175,12 +170,6 @@ A cada solução, pesquisei :red_square:PROFUNDAMENTE:red_square: cada método e
   2 <br>
 ![codewars3](https://user-images.githubusercontent.com/85446931/179319246-513c19e5-130d-4814-b97d-a7c000828634.png) <br>
   3 <br>
-Estudei Regex demais <br> <br>
-  
-Sites de auxílio: <br>
-[regex1](https://regex101.com/) <br>
-[regex2](https://www.regexpal.com/) <br>
-[regex3](https://regexr.com/) <br> <br>
 ![codewars4](https://user-images.githubusercontent.com/85446931/179319247-4966e224-0dee-4cbf-a17c-e29ed7dc0315.png) <br>
   4 <br>
 ![codewars5](https://user-images.githubusercontent.com/85446931/179319248-339edcea-99bf-4989-bf99-06af9fc78d3f.png) <br>
@@ -221,13 +210,12 @@ Sites de auxílio: <br>
   22 <br>
 ![codewars23](https://user-images.githubusercontent.com/85446931/179319281-98a873d6-2718-42b6-a4d6-de8a3cc1229a.png) <br>
   23 <br> <br>
-  
-:blue_square:Minha reação para esse curso:blue_square: <br>
+
 <img src="https://media3.giphy.com/media/s8JbnmPr0C2nS/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Javascript Puro":blue_square: <br>
+:blue_square:"Viciante":blue_square: <br>
  
   
-## :red_square::red_square::red_square::red_square::red_square:Escrevendo:red_square::red_square::red_square::red_square::red_square:
+## :red_square::red_square::red_square::red_square::red_square:Javascript Puro:red_square::red_square::red_square::red_square::red_square:
       
 ## Notes
       
@@ -262,48 +250,31 @@ Sites de auxílio: <br>
   
 ![WhatsApp Image 2022-07-15 at 20 20 11](https://user-images.githubusercontent.com/85446931/179323853-befe3a80-bd79-4755-801b-5d074d3fa39f.jpeg) <br> <br>
   
-<div align="left">  
   
-- Achei lento 
-
-</div>
-  
-:blue_square:Minha reação para esse curso:blue_square: <br>
 <img src="https://media3.giphy.com/media/HeDeZLWsMMew8/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Melhor ir para o pc":blue_square: <br>
+:blue_square:"Achei lento estudar no papel":blue_square: <br>
   
-<br><br><br><br><br><br><br><br><br>
+<br>
   
-## :red_square::red_square::red_square::red_square::red_square:Revisão:red_square::red_square::red_square::red_square::red_square:
+## :red_square::red_square::red_square::red_square::red_square:Javascript Básico:red_square::red_square::red_square::red_square::red_square:
 ![2](https://user-images.githubusercontent.com/85446931/179371410-c3c6727e-1925-4407-bdec-75dc3ca57526.png) <br>
 ![1](https://user-images.githubusercontent.com/85446931/179371309-b534ac9b-1640-4fad-9622-67b121d4f2d4.png) <br>
 ## Projeto - Aula 54 - Somente Javascript
 ![2022-07-16-17-34-18](https://user-images.githubusercontent.com/85446931/179371310-00a281f7-cf52-4c2c-9333-95e98a782ac1.gif) <br> <br>
   
-  <div align="left"> 
-  
-- 54 aulas Objetivas <br>
-- Didática nota 10 <br> <br>
-  
-  </div>
-  
-:blue_square:Minha reação para esse curso:blue_square: <br>
+
 <img src="https://media3.giphy.com/media/aY1HMl4E1Ju1y/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Muito bom":blue_square: <br>
+:blue_square:"aulas Objetivas":blue_square: <br>
   
-<br><br><br><br><br><br><br><br><br>
+<br>
 
 ## :red_square::red_square::red_square::red_square::red_square:Hora dos Frameworks:red_square::red_square::red_square::red_square::red_square:
       
 ## Pós Graduação Front-End - XP Educação (antiga IGTI)
   
-:red_square:Meu diploma de superior chegou:red_square: então senti que é o momento de entrar em frameworks, React, Angular, Vue e continuar meus estudos com esse super curso <br> <br>
-  
 ![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png) <br>
   
   Qual será minha reação para esse curso? <br>
-  
-  Por enquanto, é essa <br>
    
   <img src="https://media3.giphy.com/media/SJXzadwbexJEAZ9S1B/giphy.gif" width="400" align="center"> <br>
   
