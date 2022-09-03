@@ -139,8 +139,7 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
 <div align="left">
 
 </div>
-  
-:blue_square:Minha reação para esse curso:blue_square: <br>
+
 <img src="https://media3.giphy.com/media/kOCftLxBJCRCU/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Boa didática":blue_square: <br>
   
