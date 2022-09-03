@@ -208,46 +208,6 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 <img src="https://media3.giphy.com/media/s8JbnmPr0C2nS/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Viciante":blue_square: <br>
  
-  
-## :red_square::red_square::red_square::red_square::red_square:Javascript Puro:red_square::red_square::red_square::red_square::red_square:
-      
-## Notes
-      
-
-![WhatsApp Image 2022-07-15 at 20 20 08 (1)](https://user-images.githubusercontent.com/85446931/179323833-cda98321-e6d6-4ae5-af72-1e6f5c68d6a7.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 08 (2)](https://user-images.githubusercontent.com/85446931/179323834-affd2361-861c-464b-9562-70dc380c969b.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 08](https://user-images.githubusercontent.com/85446931/179323835-afefa3bf-e8cc-47ec-bde9-5b6996419999.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 09 (1)](https://user-images.githubusercontent.com/85446931/179323836-c942638d-f24d-4243-8813-fec6fa42c5ab.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 09 (2)](https://user-images.githubusercontent.com/85446931/179323837-0665c80e-1f64-4054-90da-b27f6564a3c8.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 09](https://user-images.githubusercontent.com/85446931/179323838-93d07ca6-366c-408a-bb75-867b9157ecd9.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 10 (1)](https://user-images.githubusercontent.com/85446931/179323841-ec339ccf-c67c-454f-829b-526fd0b4694c.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 10 (2)](https://user-images.githubusercontent.com/85446931/179323842-7f77d50b-af9d-4317-b8bc-04e303dc7ab4.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 10 (3)](https://user-images.githubusercontent.com/85446931/179323843-6d86597d-9d3a-4d5f-9cba-8faef99394d1.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 10 (4)](https://user-images.githubusercontent.com/85446931/179323844-d23b242e-242b-4c71-8d6c-c3de5ffbd784.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 10](https://user-images.githubusercontent.com/85446931/179323845-62150685-2009-4985-87a1-d179d95f828f.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 11 (1)](https://user-images.githubusercontent.com/85446931/179323846-7ef2cce7-66b7-434a-820e-199aa2f31132.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 11 (2)](https://user-images.githubusercontent.com/85446931/179323849-dfdfc97b-ef04-48e1-81c9-2d1af55ac0cb.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 11 (3)](https://user-images.githubusercontent.com/85446931/179323851-54533163-881a-4806-a951-31b61aaac184.jpeg) <br>
-  
-![WhatsApp Image 2022-07-15 at 20 20 11](https://user-images.githubusercontent.com/85446931/179323853-befe3a80-bd79-4755-801b-5d074d3fa39f.jpeg) <br> <br>
-  
-  
-<img src="https://media3.giphy.com/media/HeDeZLWsMMew8/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Achei lento estudar no papel":blue_square: <br>
-  
 <br>
   
 ## :red_square::red_square::red_square::red_square::red_square:Javascript Básico:red_square::red_square::red_square::red_square::red_square:
