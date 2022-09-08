@@ -79,7 +79,7 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 </div>
 
     
-## :red_square::red_square::red_square::red_square::red_square:Procurando algo barato - Udemy...:red_square::red_square::red_square::red_square::red_square:
+## :red_square::red_square::red_square::red_square::red_square:Udemy:red_square::red_square::red_square::red_square::red_square:
       
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
 
