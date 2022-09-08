@@ -78,22 +78,8 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 :blue_square:"Treinei HTML e CSS":blue_square: <br>
 </div>
 
-  
-## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais profissional...:red_square::red_square::red_square::red_square::red_square:
- 
-      
-![rocketseat](https://user-images.githubusercontent.com/85446931/162638662-0c99b7d7-9d1f-4fa9-8c56-41cbfb57fb98.png)<br>
-  
-<div align="left">
-- 10% do curso
-
-</div>
     
-
-<img src="https://media3.giphy.com/media/aksKSrEEfhgbK/giphy.gif" width="400" align="center"> <br>
-:blue_square:"muito avançado pra mim no momento, **Pedi reembolso**":blue_square: <br>
-  
-## :red_square::red_square::red_square::red_square::red_square:Procurando algo mais barato - Udemy...:red_square::red_square::red_square::red_square::red_square:
+## :red_square::red_square::red_square::red_square::red_square:Procurando algo barato - Udemy...:red_square::red_square::red_square::red_square::red_square:
       
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
 
