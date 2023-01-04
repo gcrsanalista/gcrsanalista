@@ -15,7 +15,7 @@
   
 <div>
 <img  align="left"  height="280" width="280" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
-<a href="https://www.duolingo.com/profile/gustavocostajj" target="_blank"><img src="https://user-images.githubusercontent.com/85446931/177890436-43793489-f14f-4b22-8a49-ba9ddd8a1832.jpg" img alt="Gustavo" height="280" width="280" align="right"></a>  
+<a href="https://preview.duolingo.com/profile/Cratos_" target="_blank"><img src="https://user-images.githubusercontent.com/85446931/210613261-8b0470ef-ea14-4367-9d7a-90191e23f2a8.png" img alt="Gustavo" height="280" width="280" align="right"></a>  
 </div>
   
 <div align="center">
