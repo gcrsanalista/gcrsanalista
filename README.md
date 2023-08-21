@@ -20,27 +20,18 @@
   
 <div align="center">
 
-   
-<a href="https://www.youtube.com/watch?v=jjOd-HvOZqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <br> <span> Canal do meu filho. Deixa o like </span>
-
-
 <a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center"></a> <br> <span> gustavocostaads@gmail.com </span>
   
-  
 <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" img align="center"></a> <br> <span> https://www.linkedin.com/in/gustavo-costa-0554501b9/ </span>
-
   
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" img align="center"> <br> <span> Kintaro_Sakamoto#0898</span>
   
 <a href="https://www.codewars.com/users/KintaroSakamoto" ><img src="https://user-images.githubusercontent.com/85446931/179327878-398a19cd-eb21-49c7-8cc2-fd95ee78caa1.jpg" img align="center" width="110" ></a>
 <br>
 <span> https://www.codewars.com/users/KintaroSakamoto </span>
-   
- 
+    
 ![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
-  
-
-     
+       
 ## :red_square::red_square::red_square::red_square::red_square:Histórico de Estudos:red_square::red_square::red_square::red_square::red_square:
 Decidi fazer uma transição de carreira. Atuo na área da engenharia e arquitetura, sou técnico em edificações. Tecnologia é uma área que sempre gostei desde criança.
   
@@ -55,15 +46,11 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
   
 <br>
   
-
-
 - Me forçou a estudar coisas que eu não estudaria sozinho, ex: Redes e Consultoria (que achei muito proveitoso). <br>
 
 <br>
 <br>
- 
   
-
 <img src="https://media3.giphy.com/media/d1E2VyhFsxawRbeo/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Networking":blue_square: <br>
 
@@ -160,13 +147,15 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 ![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png) <br>
 
    
-  <img src="https://media3.giphy.com/media/SJXzadwbexJEAZ9S1B/giphy.gif" width="400" align="center"> <br>
-  :blue_square:"Difícil e Rushado":blue_square: <br>
+<img src="https://media1.giphy.com/media/11BQtvA7R4qBk4/giphy.gif" width="400" align="center"> <br>
+:blue_square:"Difícil e Rushado":blue_square: <br>
   
 ## :red_square::red_square::red_square::red_square::red_square:Alura:red_square::red_square::red_square::red_square::red_square:
 
 ![Alura capa](https://github.com/gustavocostaads/gustavocostaads/assets/85446931/5be1b7e2-d6c0-44ea-805e-c89a96de7591) <br>
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBmN2dncmVycXJxYjV5cWVrY2Z0YXJmd3QwZnR6cjJ4eHY5MTBkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="400" align="center"> <br>
+:blue_square:"Agora vai":blue_square: <br>
   
 </div>
           
