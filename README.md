@@ -24,7 +24,7 @@
   
 <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" img align="center"></a> <br> <span> https://www.linkedin.com/in/gustavo-costa-0554501b9/ </span>
   
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" img align="center"> <br> <span> Kintaro_Sakamoto#0898</span>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" img align="center"> <br> <span> CratosComC </span>
   
 <a href="https://www.codewars.com/users/KintaroSakamoto" ><img src="https://user-images.githubusercontent.com/85446931/179327878-398a19cd-eb21-49c7-8cc2-fd95ee78caa1.jpg" img align="center" width="110" ></a>
 <br>
