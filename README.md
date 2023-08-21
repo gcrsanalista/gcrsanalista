@@ -109,9 +109,7 @@ Eu não entendi quase nada desse jogo, infelizmente foi copiar e colar e a expli
   
 <br>
   
-## :red_square::red_square::red_square::red_square::red_square:Javascript Puro...:red_square::red_square::red_square::red_square::red_square:
-      
-## Canal Roger Melo
+## :red_square::red_square::red_square::red_square::red_square:Canal Roger Melo:red_square::red_square::red_square::red_square::red_square:
       
 Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
 <img src=https://user-images.githubusercontent.com/85446931/164982023-4c025e6f-f888-42f9-ad87-18980a20de0f.png>
@@ -131,9 +129,7 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
   
 <br>
   
-## :red_square::red_square::red_square::red_square::red_square:Javascript Puro:red_square::red_square::red_square::red_square::red_square:
-      
-## Codewars
+## :red_square::red_square::red_square::red_square::red_square:Javascript Puro com Codewars:red_square::red_square::red_square::red_square::red_square:
       
 Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
   
@@ -159,10 +155,8 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
   
 <br>
 
-## :red_square::red_square::red_square::red_square::red_square:Hora dos Frameworks:red_square::red_square::red_square::red_square::red_square:
+## :red_square::red_square::red_square::red_square::red_square:Pós Graduação Front-End - XP Educação (antiga IGTI):red_square::red_square::red_square::red_square::red_square:
       
-## Pós Graduação Front-End - XP Educação (antiga IGTI)
-  
 ![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png) <br>
 
    
@@ -170,11 +164,8 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
   :blue_square:"Difícil e Rushado":blue_square: <br>
   
 ## :red_square::red_square::red_square::red_square::red_square:Alura:red_square::red_square::red_square::red_square::red_square:
-      
-## Alura
 
 ![Alura capa](https://github.com/gustavocostaads/gustavocostaads/assets/85446931/5be1b7e2-d6c0-44ea-805e-c89a96de7591) <br>
-
 
   
 </div>
