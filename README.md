@@ -42,16 +42,8 @@ Decidi fazer uma transição de carreira. Atuo na área da engenharia e arquitet
 ## Início - 2020 antes da pandemia
 Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br>
   
-
-  
 ![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
-  
-<br>
-  
-- Me forçou a estudar coisas que eu não estudaria sozinho, ex: Redes e Consultoria (que achei muito proveitoso). <br>
 
-<br>
-<br>
   
 <img src="https://media3.giphy.com/media/d1E2VyhFsxawRbeo/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Networking":blue_square: <br>
@@ -60,41 +52,28 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 ## :red_square::red_square::red_square::red_square::red_square:Curso DankiCode Front-End...:red_square::red_square::red_square::red_square::red_square:
 
 ![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png) <br>
-
-- 42% do curso <br>
   
 <img src="https://media3.giphy.com/media/5USTijryafZEQ/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Treinei HTML e CSS":blue_square: <br>
+:blue_square:"42% do curso = HTML e CSS":blue_square: <br>
 </div>
-
     
 ## :red_square::red_square::red_square::red_square::red_square:Udemy:red_square::red_square::red_square::red_square::red_square:
       
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
 
 <div align="left">
-- 40hs de 97hs <br>
+-  <br>
 </div>
   
 ## Projeto Flappy Bird - Curso Web Moderno
-      
-Esse foi o único projeto que fiz do curso...[Jogue também... O máximo que consegui foram 8, vc consegue mais? Duvido...](https://gustavocostaads.github.io/flappybird)
-  
-<br>
-  
-Eu não entendi quase nada desse jogo, infelizmente foi copiar e colar e a explicação foi rasa, mas, ficou legal kk 
+[Jogue aqui >](https://gustavocostaads.github.io/flappybird)
 
-<br>
   
 <img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif"> 
   
-<br>
-  
-<br> 
-  
 
 <img src="https://media3.giphy.com/media/K7NHFtsLG4nqU/giphy.gif" width="400" align="center"> <br>
-:blue_square:"40 hs de teoria! Não foi proveitoso":blue_square: <br>
+:blue_square:"40hs de 97hs, somente teoria. Não foi proveitoso":blue_square: <br>
   
 <br>
   
