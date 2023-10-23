@@ -131,12 +131,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 <img src="https://media1.giphy.com/media/11BQtvA7R4qBk4/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Difícil e Rushado":blue_square: <br>
   
-## :red_square::red_square::red_square::red_square::red_square:Alura:red_square::red_square::red_square::red_square::red_square:
 
-![Alura capa](https://github.com/gustavocostaads/gustavocostaads/assets/85446931/5be1b7e2-d6c0-44ea-805e-c89a96de7591) <br>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBmN2dncmVycXJxYjV5cWVrY2Z0YXJmd3QwZnR6cjJ4eHY5MTBkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Agora vai":blue_square: <br>
   
 </div>
           
