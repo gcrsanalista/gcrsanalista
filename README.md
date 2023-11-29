@@ -24,7 +24,7 @@
 
 
 
-<a href = "https://www.instagram.com/gustavocostaads"><img src="" target="_blank" img align="center" width="40%"></a> <br>
+<a href = "https://www.instagram.com/gustavocostaads"><img src="" target="_blank" img align="center" width="100px"></a> <br>
 
 <a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center"></a> <br> <span> gustavocostaads@gmail.com </span>
   
