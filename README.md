@@ -107,7 +107,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 - Fiz 23 desafios básicos de Javascrip puro, aprendi bastante
 
 <img src="https://media3.giphy.com/media/s8JbnmPr0C2nS/giphy.gif" width="400" align="center"> <br>
-:blue_square:"Viciante":blue_square: <br>
+:blue_square:"Entendendo":blue_square: <br>
  
 <br>
   
@@ -118,7 +118,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 ![2022-07-16-17-34-18](https://user-images.githubusercontent.com/85446931/179371310-00a281f7-cf52-4c2c-9333-95e98a782ac1.gif) <br> <br>
   
 
-<img src="https://media3.giphy.com/media/aY1HMl4E1Ju1y/giphy.gif" width="400" align="center"> <br>
+<img src="https://media4.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif" width="400" align="center"> <br>
 :blue_square:"aulas Objetivas":blue_square: <br>
   
 <br>
