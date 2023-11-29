@@ -119,7 +119,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
   
 
 <img src="https://media4.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif" width="400" align="center"> <br>
-:blue_square:"aulas Objetivas":blue_square: <br>
+:blue_square:"Aulas Objetivas":blue_square: <br>
   
 <br>
 
