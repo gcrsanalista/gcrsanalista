@@ -26,7 +26,7 @@
 
 <a href = "https://www.instagram.com/gustavocostaads"><img src="https://github.com/gustavocostaads/gustavocostaads/assets/85446931/a882eb1e-d204-4e4b-bfb5-62a9138a77da" target="_blank" img align="center" width="150px"></a> <br>
 
-<a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center"></a> <br> <span> gustavocostaads@gmail.com </span>
+<a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center" width="150px"></a> <br> <span> gustavocostaads@gmail.com </span>
   
 <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" img align="center"></a> <br>
   
