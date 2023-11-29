@@ -26,11 +26,11 @@
 
 <a href = "https://www.instagram.com/gustavocostaads"><img src="https://github.com/gustavocostaads/gustavocostaads/assets/85446931/a882eb1e-d204-4e4b-bfb5-62a9138a77da" target="_blank" img align="center" width="130px" height="33px"></a> <br>
 
-<a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center" width="130px" height="33px"></a> gustavocostaads@gmail.com
+<a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center" width="130px" height="33px"></a> <br>gustavocostaads@gmail.com
   
 <a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" img align="center" width="130px" height="33px"></a>
   
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" img align="center" width="130px" height="33px">  CratosComC
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" img align="center" width="130px" height="33px">  <br>CratosComC
   
 <a href="https://www.codewars.com/users/CratosSakamoto" ><img src="https://user-images.githubusercontent.com/85446931/179327878-398a19cd-eb21-49c7-8cc2-fd95ee78caa1.jpg" img align="center" width="130" height="33px"></a>
 <br>
