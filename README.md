@@ -53,7 +53,7 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 
 ![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png) <br>
   
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGttZTNyenF3M2N5bWM5d2ptbTRpeWVla2Qwc3ZjanM0NHZqdnZqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OQ6CJuMKswDTi/giphy_s.gif" width="400" align="center"> <br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGttZTNyenF3M2N5bWM5d2ptbTRpeWVla2Qwc3ZjanM0NHZqdnZqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OQ6CJuMKswDTi/giphy.gif" width="400" align="center"> <br>
 :blue_square:"42% do curso = HTML e CSS":blue_square: <br>
 </div>
     
