@@ -24,15 +24,15 @@
 
 
 
-<a href = "https://www.instagram.com/gustavocostaads"><img src="https://github.com/gustavocostaads/gustavocostaads/assets/85446931/a882eb1e-d204-4e4b-bfb5-62a9138a77da" target="_blank" img align="center" width="150px"></a> <br>
+<a href = "https://www.instagram.com/gustavocostaads"><img src="https://github.com/gustavocostaads/gustavocostaads/assets/85446931/a882eb1e-d204-4e4b-bfb5-62a9138a77da" target="_blank" img align="center" width="130px"></a> <br>
 
-<a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center" width="150px"></a> <br> <span> gustavocostaads@gmail.com </span>
+<a href = "mailto:gustavocostaads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" img align="center" width="130px"></a> <br> <span> gustavocostaads@gmail.com </span>
   
-<a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" img align="center"></a> <br>
+<a href="https://www.linkedin.com/in/gustavo-costa-0554501b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" img align="center" width="130px"></a> <br>
   
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" img align="center"> <br> <span> CratosComC </span>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" img align="center" width="130px"> <br> <span> CratosComC </span>
   
-<a href="https://www.codewars.com/users/CratosSakamoto" ><img src="https://user-images.githubusercontent.com/85446931/179327878-398a19cd-eb21-49c7-8cc2-fd95ee78caa1.jpg" img align="center" width="110" ></a>
+<a href="https://www.codewars.com/users/CratosSakamoto" ><img src="https://user-images.githubusercontent.com/85446931/179327878-398a19cd-eb21-49c7-8cc2-fd95ee78caa1.jpg" img align="center" width="130" ></a>
 <br>
     
 ![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
