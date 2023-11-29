@@ -140,7 +140,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 
 ## :red_square:Projetos:red_square:
 
-![Link Repositório de Projetos](https://github.com/gustavocostaads/projetos_frontend/tree/main)
+[Link Repositório de Projetos](https://github.com/gustavocostaads/projetos_frontend/tree/main)
 
 01 - 2023-11-29 - Calculadora de IMC
 
