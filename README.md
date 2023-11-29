@@ -45,7 +45,7 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 ![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
 
   
-<img src="https://media3.giphy.com/media/d1E2VyhFsxawRbeo/giphy.gif" width="400" align="center"> <br>
+<img src="https://media1.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Networking":blue_square: <br>
 
   
