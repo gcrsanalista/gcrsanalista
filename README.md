@@ -131,7 +131,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 <img src="https://media1.giphy.com/media/11BQtvA7R4qBk4/giphy.gif" width="400" align="center"> <br>
 :blue_square:"Difícil e Rushado":blue_square: <br>
 
-## :red_square::red_square::red_square::red_square::red_square:Curso completo de PostgreSQL! Do Básico ao Avançado v2023!:red_square::red_square::red_square::red_square::red_square:
+## :red_square::red_square:Curso completo de PostgreSQL! Do Básico ao Avançado v2023!:red_square:
   
 ![Udemy Postgre](https://github.com/gustavocostaads/gustavocostaads/assets/85446931/5b5effeb-df5a-43a2-89b4-73fbb554db4e)
 
