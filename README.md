@@ -137,6 +137,13 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 
 <img src="https://media3.giphy.com/media/xT9DPjkNXsQuoZva6c/giphy.gif" width="400" align="center"> <br>
 :blue_square:"65% do curso, bom para começar":blue_square: <br>
+
+## :red_square:Projetos:red_square:
+
+![Link Repositório de Projetos](https://github.com/gustavocostaads/projetos_frontend/tree/main)
+
+01 - 2023-11-29 - Calculadora de IMC
+
   
 </div>
           
