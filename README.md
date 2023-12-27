@@ -52,7 +52,7 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 
 ![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png) <br>
   
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGttZTNyenF3M2N5bWM5d2ptbTRpeWVla2Qwc3ZjanM0NHZqdnZqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OQ6CJuMKswDTi/giphy.gif" width="400" align="center"> <br>
+
 :blue_square:"42% do curso = HTML e CSS":blue_square: <br>
 </div>
     
@@ -71,7 +71,7 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 <img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif"> 
   
 
-<img src="https://media3.giphy.com/media/K7NHFtsLG4nqU/giphy.gif" width="400" align="center"> <br>
+
 :blue_square:"40hs de 97hs, somente teoria. Não foi proveitoso":blue_square: <br>
   
 <br>
@@ -91,7 +91,7 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
 
 </div>
 
-<img src="https://media3.giphy.com/media/kOCftLxBJCRCU/giphy.gif" width="400" align="center"> <br>
+
 :blue_square:"Boa didática":blue_square: <br>
   
 <br>
@@ -105,7 +105,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 
 - Fiz 23 desafios básicos de Javascrip puro, aprendi bastante
 
-<img src="https://media3.giphy.com/media/s8JbnmPr0C2nS/giphy.gif" width="400" align="center"> <br>
+
 :blue_square:"Entendendo":blue_square: <br>
  
 <br>
@@ -117,7 +117,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 ![2022-07-16-17-34-18](https://user-images.githubusercontent.com/85446931/179371310-00a281f7-cf52-4c2c-9333-95e98a782ac1.gif) <br> <br>
   
 
-<img src="https://media4.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif" width="400" align="center"> <br>
+
 :blue_square:"Aulas Objetivas":blue_square: <br>
   
 <br>
@@ -127,14 +127,14 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 ![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png) <br>
 
    
-<img src="https://media1.giphy.com/media/11BQtvA7R4qBk4/giphy.gif" width="400" align="center"> <br>
+
 :blue_square:"Difícil e Rushado":blue_square: <br>
 
 ## :red_square:Curso completo de PostgreSQL! Do Básico ao Avançado v2023!:red_square:
   
 ![Udemy Postgre](https://github.com/gustavocostaads/gustavocostaads/assets/85446931/5b5effeb-df5a-43a2-89b4-73fbb554db4e)
 
-<img src="https://media3.giphy.com/media/xT9DPjkNXsQuoZva6c/giphy.gif" width="400" align="center"> <br>
+
 :blue_square:"65% do curso, bom para começar":blue_square: <br>
 
 ## :red_square:Projetos:red_square:
