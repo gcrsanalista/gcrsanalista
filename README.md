@@ -8,9 +8,7 @@
 <a href="https://github.com/gustavocostaads">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocostaads&layout=compact&langs_count=7&theme=tokyonight" align="center"/>
-  
-<br>
-  
+<br> 
 <br>
   
 <div>
@@ -37,7 +35,7 @@
 Decidi fazer uma transição de carreira. Atuo na área da engenharia e arquitetura, sou técnico em edificações. Tecnologia é uma área que sempre gostei desde criança.
   
 <br>   
-    
+<br>    
 ## :red_square:Início - 2020 antes da pandemia:red_square:
 Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br>
   
@@ -45,8 +43,8 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 
   
 
-
-
+<br>
+<br>
   
 ## :red_square:Curso DankiCode Front-End... 42% :red_square:
 
@@ -55,7 +53,8 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 
 
 </div>
-    
+<br>
+<br>
 ## :red_square:Udemy - Curso Web Moderno 40hs de 97hs:red_square::red_square:
       
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
@@ -72,7 +71,7 @@ Projeto Flappy Bird - Curso Web Moderno
 
   
 <br>
-  
+<br>  
 ## :red_square:Canal Roger Melo:red_square:
       
 Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
@@ -80,7 +79,7 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
   
 <br>
   
-## Projeto Pokedex - Canal Roger Melo
+Projeto Pokedex - Canal Roger Melo
            
 [link repositório](https://github.com/gustavocostaads/pokedexKintaro) <img src="https://user-images.githubusercontent.com/85446931/164983739-e3bfcaa6-b7dd-45b5-9a2f-7f4661466897.gif"><br>  <br>
 
@@ -90,7 +89,7 @@ Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
 
   
 <br>
-  
+<br> 
 ## :red_square:Javascript Puro com Codewars:red_square:
       
 Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
@@ -100,7 +99,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 
  
 <br>
-  
+<br>  
 ## :red_square:Javascript Básico:red_square:
 ![2](https://user-images.githubusercontent.com/85446931/179371410-c3c6727e-1925-4407-bdec-75dc3ca57526.png) <br>
 ![1](https://user-images.githubusercontent.com/85446931/179371309-b534ac9b-1640-4fad-9622-67b121d4f2d4.png) <br>
@@ -109,19 +108,21 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
   
   
 <br>
-
+<br>
 ## :red_square:Pós Graduação Front-End - XP Educação (antiga IGTI):red_square:
       
 ![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png) <br>
 
-
+<br>
+<br>
 
 ## :red_square:Curso completo de PostgreSQL! Do Básico ao Avançado v2023! 65%:red_square:
   
 ![Udemy Postgre](https://github.com/gustavocostaads/gustavocostaads/assets/85446931/5b5effeb-df5a-43a2-89b4-73fbb554db4e)
 
 
-
+<br>
+<br>
 
 ## :red_square:Projetos:red_square:
 
