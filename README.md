@@ -58,6 +58,7 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 </div>
 <br>
 <br>
+
 ## :red_square:Udemy - Curso Web Moderno 40hs de 97hs:red_square::red_square:
       
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
@@ -75,6 +76,7 @@ Projeto Flappy Bird - Curso Web Moderno
   
 <br>
 <br>  
+
 ## :red_square:Canal Roger Melo:red_square:
       
 Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
@@ -93,6 +95,7 @@ Projeto Pokedex - Canal Roger Melo
   
 <br>
 <br> 
+
 ## :red_square:Javascript Puro com Codewars:red_square:
       
 Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
@@ -103,6 +106,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
  
 <br>
 <br>  
+
 ## :red_square:Javascript Básico:red_square:
 ![2](https://user-images.githubusercontent.com/85446931/179371410-c3c6727e-1925-4407-bdec-75dc3ca57526.png) <br>
 ![1](https://user-images.githubusercontent.com/85446931/179371309-b534ac9b-1640-4fad-9622-67b121d4f2d4.png) <br>
@@ -112,6 +116,7 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
   
 <br>
 <br>
+
 ## :red_square:Pós Graduação Front-End - XP Educação (antiga IGTI):red_square:
       
 ![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png) <br>
