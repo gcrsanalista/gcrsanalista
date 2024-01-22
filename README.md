@@ -37,7 +37,8 @@
 Decidi fazer uma transição de carreira. Atuo na área da engenharia e arquitetura, sou técnico em edificações. Tecnologia é uma área que sempre gostei desde criança.
   
 <br>   
-<br>    
+<br>  
+
 ## :red_square:Início - 2020 antes da pandemia:red_square:
 Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br>
   
