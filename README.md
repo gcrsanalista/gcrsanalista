@@ -129,14 +129,6 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 ![Udemy Postgre](https://github.com/gustavocostaads/gustavocostaads/assets/85446931/5b5effeb-df5a-43a2-89b4-73fbb554db4e)
 
 
-<br>
-<br>
-
-## :red_square:Projetos:red_square:
-
-[Link Repositório de Projetos](https://github.com/gustavocostaads/projetos_frontend/tree/main)
-
-01 - 2023-11-29 - Calculadora de IMC
 
   
 </div>
