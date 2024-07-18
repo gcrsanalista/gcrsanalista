@@ -53,8 +53,6 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 
 ![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png) <br>
   
-
-
 </div>
 <br>
 <br>
@@ -63,11 +61,6 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
       
 ![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
 
-<div align="left">
--  <br>
-</div>
-
-  
 <br>
 <br> 
 
@@ -76,18 +69,6 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
   
 ![codewars](https://user-images.githubusercontent.com/85446931/179319240-8ba0d233-d917-410f-a4e4-9d4027ec67a1.png) <br>
-
-
- 
-<br>
-<br>  
-
-## :red_square:Javascript Básico:red_square:
-![2](https://user-images.githubusercontent.com/85446931/179371410-c3c6727e-1925-4407-bdec-75dc3ca57526.png) <br>
-![1](https://user-images.githubusercontent.com/85446931/179371309-b534ac9b-1640-4fad-9622-67b121d4f2d4.png) <br>
-## Projeto - Aula 54 - Somente Javascript
-![2022-07-16-17-34-18](https://user-images.githubusercontent.com/85446931/179371310-00a281f7-cf52-4c2c-9333-95e98a782ac1.gif) <br> <br>
-  
   
 <br>
 <br>
