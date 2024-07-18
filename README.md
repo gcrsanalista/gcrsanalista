@@ -72,26 +72,6 @@ Projeto Flappy Bird - Curso Web Moderno
 
   
 <img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif"> 
-
-  
-<br>
-<br>  
-
-## :red_square:Canal Roger Melo:red_square:
-      
-Javascript Puro [Roger Melo](https://www.youtube.com/c/RogerMelo/videos)
-<img src=https://user-images.githubusercontent.com/85446931/164982023-4c025e6f-f888-42f9-ad87-18980a20de0f.png>
-  
-<br>
-  
-Projeto Pokedex - Canal Roger Melo
-           
-[link repositório](https://github.com/gustavocostaads/pokedexKintaro) <img src="https://user-images.githubusercontent.com/85446931/164983739-e3bfcaa6-b7dd-45b5-9a2f-7f4661466897.gif"><br>  <br>
-
-<div align="left">
-
-</div>
-
   
 <br>
 <br> 
