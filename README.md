@@ -84,6 +84,12 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
   
 ![Udemy Postgre](https://github.com/gustavocostaads/gustavocostaads/assets/85446931/5b5effeb-df5a-43a2-89b4-73fbb554db4e)
 
+<br>
+<br>
+
+## :red_square:Curso de JavaScript e TypeScript do básico ao avançado JS/TS 25%:red_square:
+
+![javascript curso](https://github.com/user-attachments/assets/b6664aa6-d957-498e-a164-b2144e1c9fe0)
 
 
   
