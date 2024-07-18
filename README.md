@@ -66,12 +66,7 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 <div align="left">
 -  <br>
 </div>
-  
-Projeto Flappy Bird - Curso Web Moderno
-[Jogue aqui >](https://gustavocostaads.github.io/flappybird)
 
-  
-<img src="https://github.com/gustavocostaads/flappybird/blob/main/2022-03-23-22-45-55.gif"> 
   
 <br>
 <br> 
